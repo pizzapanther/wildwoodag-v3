@@ -1,0 +1,127 @@
+====================
+Template Information
+====================
+
+Template   :  	Blessed - HTML Template Build For Church
+Version    :  	1.0.0
+Author     : 	wp-organic
+
+===========
+Description
+===========
+
+Blessed Church and Religion HTML is a perfect template for churches of various denominations and types, also for non-profit organizations and believer communities, charity funds and other NGO websites. Blessed church template includes integration with the Give Donations plugin for church fundraising and charity projects. Blessed religion template also offers sermons post type, ministries post type and campaigns post types allowing you to showcase prominent sermons, blog posts on religious topics, and more.
+
+Rest assured, Blessed is rigorously tested for responsiveness and compatibility across all major browsers and devices, including Firefox, Chrome, Internet Explorer, and Safari.
+
+================
+Credit / License
+================
+
+jQuery v3.7.1
+-------------
+/*! jQuery v3.7.1 | (c) OpenJS Foundation and other contributors | jquery.org/license */
+
+Google Fonts
+------------
+Font Family : Sora ( https://openfontlicense.org )
+Copyright 2019 The Sora Project Authors (https://github.com/sora-xor/sora-font)
+
+Font Family : Halant
+Copyright (c) 2014, Indian Type Foundry (info@indiantypefoundry.com).
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+
+
+Bootstrap  v5.3.2
+-----------------
+ * Bootstrap  v5.3.2 (https://getbootstrap.com/)
+ * Copyright 2011-2024 The Bootstrap Authors
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
+
+
+Swiper 6.5.0
+------------
+ * Swiper 6.5.0 ( https://swiperjs.com )
+ * Copyright 2014-2024 Vladimir Kharlampidi
+ * Released under the MIT License
+
+
+Animate.css 4.1.1
+-----------------
+ * Animate.css 4.1.1 - ( http://daneden.me/animate )
+ * Licensed under the MIT license ( https://animate.style/#license-contributing )
+
+
+GSAP 3.10.4
+-----------
+ * https://greensock.com, https://gsap.com/
+ * @license Copyright 2022, GreenSock. All rights reserved.
+ * Subject to the terms at https://greensock.com/standard-license or for Club GreenSock members, the agreement issued with that membership.
+ * @author: Jack Doyle, jack@greensock.com
+
+
+AOS - 2.3.2 [ Animate on scroll library ]
+-----------------------------------------
+ * Name     :   AOS 2.3.2
+ * Author   : 	Michał Sajnóg <michal.sajnog@hotmail.com>"
+ * License 	:   MIT
+ * Website  :   https://michalsnik.github.io/aos/
+ * Git      :   https://github.com/michalsnik/aos
+
+
+Font Awesome Version 5.15.4  [ Icon Library ]
+---------------------------------------------
+ * Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com
+ * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+
+
+Feather [ Icon Library ]
+------------------------
+ * https://feathericons.com
+ * License - https://github.com/feathericons/feather/blob/main/LICENSE
+
+
+WOW - v1.1.3 - 2016-05-06
+-------------------------
+ * Copyright (c) 2016 Matthieu Aussaguel;*/
+ * License - https://raw.githubusercontent.com/graingert/WOW/master/LICENSE
+
+
+Odometer - Counter Script
+-------------------------
+ * GIT  	-  	https://github.com/HubSpot/odometer
+ * License 	- 	https://github.com/HubSpot/odometer/blob/master/LICENSE
+
+
+Images Loaded Version 5.0.0
+---------------------------
+ * GIT   	-	https://github.com/desandro/imagesloaded
+ * License 	-	https://github.com/desandro/imagesloaded/blob/master/LICENSE.md
+ * Website 	-	https://imagesloaded.desandro.com/
+
+
+Isotope v3.0.6
+--------------
+ * https://isotope.metafizzy.co
+ * Copyright 2010-2020 Metafizzy
+ * Licensed GPLv3 for open source use or Isotope Commercial License for commercial use
+
+
+jquery.appear
+-------------
+ * GIT  	-	https://github.com/bas2k/jquery.appear
+
+
+jquery.parallax-scroll
+----------------------
+ * GIT 		-	https://github.com/alumbo/jquery.parallax-scroll
+ * License 	-	https://github.com/alumbo/jquery.parallax-scroll/blob/master/LICENSE
+
+
+=========
+Changelog
+=========
+
+== VERSION 1.0.0 ==
+
+ * First release.
