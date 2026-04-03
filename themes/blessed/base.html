@@ -62,6 +62,7 @@ Author: wp-organic
 
         <!-- Custom - CSS here -->
         <link rel="stylesheet" type="text/css" href="assets/style.css">
+        {% block css %}{% endblock %}
 
     </head>
     <!-- end head -->
@@ -321,7 +322,7 @@ Author: wp-organic
         <!-- Content Area
         ================= -->
         <main class="fix">
-
+            {% block banner %}
             <!-- Page Header Banner
             ======================= -->
             <section class="page-header" data-background="assets/images/home2/hero-2-bg.png">
@@ -338,7 +339,9 @@ Author: wp-organic
                     </div>
                 </div>
             </section>
+            {% endblock %}
 
+            {% block sections %}
             <!-- Get In Touch - Section
             =========================== -->
             <section class="section-padding position-relative">
@@ -350,6 +353,7 @@ Author: wp-organic
                 {% block post_main_content %}{% endblock %}
             </section>
             {% block more_sections %}{% endblock %}
+            {% endblock %}
         </main>
 
         <!-- Footer Widget Area

@@ -1,0 +1,27 @@
+{% extends "blessed/base.html" %}
+{% block css %}
+<style>
+.page-header {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+
+  h1 {
+    -webkit-text-stroke: 2px black;
+    text-shadow: 5px 4px 5px #000;
+  }
+}
+</style>
+{% endblock %}
+{% block banner %}
+<section class="page-header" data-background="/home/cover.jpg">
+    <div class="container">
+        <div class="row">
+            <h1 class="mb-2 text-white">
+              Wildwood Assembly<br>
+              Welcome Home
+            </h1>
+        </div>
+    </div>
+</section>
+{% endblock %}
