@@ -81,7 +81,7 @@
   --tc-color-dark: #1C1A4A;
   --tc-color-black-1: #06042E;
   --tc-color-black-2: #161439;
-  --tc-color-neutral-0: #ffffff;
+  --tc-color-neutral-0: #000;
   --tc-color-neutral-50: #EAEAEA;
   --tc-color-neutral-100: #D5D5D5;
   --tc-color-neutral-200: #ABABAB;
@@ -919,7 +919,7 @@ textarea {
 }
 #preloader .loader .loader-icon img {
   animation: loaderpulse alternate 900ms infinite;
-  width: 40px;
+  width: 320px;
   margin-bottom: 15px;
 }
 #preloader .loader h6 {
@@ -1417,10 +1417,10 @@ textarea {
 .transparent-header.header-style-2 .tc-header__area {
   border-top: 1px solid rgba(255, 255, 255, 0.2);
   border-bottom: 1px solid rgba(255, 255, 255, 0.2);
-  background: rgba(5, 20, 73, 0.7);
+  background-color: #fff;
 }
 .transparent-header.header-style-2 .tc-header__area.sticky-menu {
-  background: rgb(5, 20, 73);
+  background: #fff;
 }
 .transparent-header.header-style-2 .tc-header__area.sticky-menu .tgmenu__navbar-wrap > ul > li .sub-menu {
   background: rgb(5, 20, 73) !important;
@@ -1445,7 +1445,7 @@ textarea {
   stroke: var(--tc-color-neutral-0);
 }
 .transparent-header.header-style-2 .tgmenu__navbar-wrap > ul > li .sub-menu {
-  background: rgba(5, 20, 73, 0.7) !important;
+  background: #fff !important;
   border: 1px solid rgba(255, 255, 255, 0.2) !important;
 }
 .transparent-header.header-style-2.sticky-menu {
