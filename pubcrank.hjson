@@ -10,6 +10,8 @@
         name: "About Us"
         subpages: [
           {name: "Our Pastors", url: "/about/pastors.html"}
+          {name: "Ministries", url: "/about/ministries.html"}
+          {name: "What We Believe", url: "/about/what.html"}
           {name: "Contact", url: "/about/contact.html"}
         ]
       }
