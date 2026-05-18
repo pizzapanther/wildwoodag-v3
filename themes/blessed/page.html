@@ -15,11 +15,29 @@
 </div>
 {% endblock %}
 {% block sections %}
+{% if page.page_type == "centered-full" %}
 <section class="pb-110px position-relative">
   <div class="container">
-    <div class="row" style="padding-top: 20px;">
+    <div class="row" style="padding-top: 30px;">
+      <div class="col-lg-8 col-10" style="margin: 0 auto;">
+        {{ page.body|safe }}
+      </div>
+    </div>
+  </div>
+</section>
+{% elif page.page_type == "extra-rows" %}
+<section class="pb-110px position-relative">
+  <div class="container" style="padding-top: 30px;">
+    {{ page.body|safe }}
+  </div>
+</section>
+{% else %}
+<section class="pb-110px position-relative">
+  <div class="container">
+    <div class="row" style="padding-top: 30px;">
       {{ page.body|safe }}
     </div>
   </div>
 </section>
+{% endif %}
 {% endblock %}

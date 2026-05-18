@@ -1,5 +1,6 @@
 {
   title: What We Believe
+  page_type: centered-full
 }
 
 Church In The Wildwood A/G, Inc – Affiliated with the Assemblies of God. – We Hold These truths.
