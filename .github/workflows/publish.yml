@@ -1,0 +1,39 @@
+name: 🐱 Publish Site
+on:
+  push:
+    branches:
+      - master
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+jobs:
+  build:
+    name: Build Site
+    runs-on: ubuntu-latest
+    environment:
+      name: Neutron Studio
+      url: https://www.neutron.studio/
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - name: Install pipx
+        run: python3 -m pip install pipx
+      - name: Install Pubcrank
+        run: pipx install pubcrank-cli
+      - name: Out dir
+        run: mkdir output
+      - name: Build site
+        run: pubcrank build
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: 'output'
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
