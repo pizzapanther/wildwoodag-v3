@@ -140,6 +140,10 @@ body {
   line-height: var(--tc-body-line-height);
 }
 
+li {
+  margin-bottom: 20px;
+}
+
 .font-body {
   font-family: var(--tc-body-font-family);
 }

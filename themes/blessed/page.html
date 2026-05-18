@@ -1,1 +1,25 @@
 {% extends "blessed/base.html" %}
+{% block banner %}
+<div class="page-header" data-background="/assets/images/home2/hero-2-bg.png" style="background-image: url(&quot;/assets/images/home2/hero-2-bg.png&quot;);">
+  <div class="container">
+    <div class="row">
+      <h1 class="mb-2 text-white">{{ page.title }}</h1>
+      <!-- <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+            <li class="breadcrumb-item active" aria-current="page">About Us</li>
+        </ol>
+      </nav> -->
+    </div>
+  </div>
+</div>
+{% endblock %}
+{% block sections %}
+<section class="pb-110px position-relative">
+  <div class="container">
+    <div class="row" style="padding-top: 20px;">
+      {{ page.body|safe }}
+    </div>
+  </div>
+</section>
+{% endblock %}
