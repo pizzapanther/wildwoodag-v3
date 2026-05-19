@@ -1,16 +1,22 @@
----
-template: post
-categories:
-  - New Life
-tags:
-  - second chance
-  - Mary
-  - Lazarus
-title: Never Too Late
-date: 2024-08-25T05:00:00.000Z
-draft: false
-image: https://www.wildwoodag.church/pimg/never_too_late_curtain-725758.jpg
----
+{
+  template: post.html
+  categories:
+  [
+    New Life
+  ]
+  tags:
+  [
+    second chance
+    Mary
+    Lazarus
+  ]
+  title: Never Too Late
+  date: 2024-08-25T05:00:00
+  draft: false
+  image: https://www.wildwoodag.church/pimg/never_too_late_curtain-725758.jpg
+}
+
+
 Mary…fell down at His feet, saying, ‘Lord, if You had been here, my brother would not have died. John 11:32
 
 When Jesus arrived in Bethany, the home of Lazarus, Mary and Martha, the women greeted Him, but their words were sharp.

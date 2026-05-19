@@ -1,13 +1,19 @@
----
-title: Growing in Faith
-date: 2023-04-17
-image: https://www.wildwoodag.church/pimg/2023-04-17-growing-in-faith.jpg
-categories:
-  - Growth
-tags:
-  - faith
-  - change
----
+{
+  title: Growing in Faith
+  date: 2023-04-17
+  image: https://www.wildwoodag.church/pimg/2023-04-17-growing-in-faith.jpg
+  categories:
+  [
+    Growth
+  ]
+  tags:
+  [
+    faith
+    change
+  ]
+  template: post.html
+}
+
 
 Now faith is the substance of things hoped for, the evidence of things not seen.  Hebrews 11:1
 
@@ -22,6 +28,3 @@ Beyond my own strength,<br/>past my own limits;<br/>with the love and understand
 M.G. Baumgartner, 1984
 
 Growing in faith with the Lord means that you will find yourself in a different place next week, next month and next year.
-
-
-

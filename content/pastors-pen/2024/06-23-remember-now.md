@@ -1,15 +1,21 @@
----
-template: post
-categories:
-  - Wisdom
-tags:
-  - remember
-  - end of life
-  - silver cord
-title: Remember Now
-date: 2024-06-23T05:00:00.000Z
-image: https://www.wildwoodag.church/pimg/silverchain.jpg
----
+{
+  template: post.html
+  categories:
+  [
+    Wisdom
+  ]
+  tags:
+  [
+    remember
+    end of life
+    silver cord
+  ]
+  title: Remember Now
+  date: 2024-06-23T05:00:00
+  image: https://www.wildwoodag.church/pimg/silverchain.jpg
+}
+
+
 Remember your Creator before the silver cord is loosed, or the golden bowl is broken, or the pitcher shattered at the fountain, or the wheel broken at the well. Ecclesiastes 12:7
 
 If I were to paraphrase this, I would say, “You better remember God while there is breath in your lungs.” Matthew Henry refers to the ‘silver cord’ as that which binds the soul and body.  The Message says, “before the silver cord of life snaps.”

@@ -1,15 +1,21 @@
----
-title: Final Hours of 2023
-date: 2023-12-31
-image: https://www.wildwoodag.church/pimg/clock-wallpaper-8.jpg
-categories:
-  - Growth
-tags:
-  - evangelism
-  - Percy Brewster
-  - godliness
-  - New year
----
+{
+  title: Final Hours of 2023
+  date: 2023-12-31
+  image: https://www.wildwoodag.church/pimg/clock-wallpaper-8.jpg
+  categories:
+  [
+    Growth
+  ]
+  tags:
+  [
+    evangelism
+    Percy Brewster
+    godliness
+    New year
+  ]
+  template: post.html
+}
+
 
 Fifty years ago, theologian Percy Brewster pointed out several trends that Pentecostals needed to be wary of – if we are paying attention, we will find they still hold true for today!
 

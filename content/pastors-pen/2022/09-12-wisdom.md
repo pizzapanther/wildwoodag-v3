@@ -1,19 +1,22 @@
----
-title: Wisdom
-date: 2022-09-12
-image: https://www.wildwoodag.church/pimg/2022-09-12-wisdom.jpg
-categories:
-  - Wisdom
-tags:
-  - wisdom
-  - Solomon
----
+{
+  title: Wisdom
+  date: 2022-09-12
+  image: https://www.wildwoodag.church/pimg/2022-09-12-wisdom.jpg
+  categories:
+  [
+    Wisdom
+  ]
+  tags:
+  [
+    wisdom
+    Solomon
+  ]
+  template: post.html
+}
+
 
 But the wisdom that is from above is…  James 3:17(a)
 
 When Solomon prayed to God, the Lord responded, “What shall I give you?” Wisely, Solomon asked for wisdom!  1 King 3:5
 
 The Lord reminds us that if we lack wisdom; all we need to do is ask Him, and He will give it to us. Solomon was wise enough to ask? May we be just as wise: Lord, help us!
-
-
-

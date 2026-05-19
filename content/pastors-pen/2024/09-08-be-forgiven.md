@@ -1,12 +1,14 @@
----
-template: post
-categories: []
-tags: []
-title: Be Forgiven
-date: 2024-09-08T13:00:00.000Z
-draft: false
-image: https://www.wildwoodag.church/pimg/forgiveness.jpg
----
+{
+  template: post.html
+  categories: []
+  tags: []
+  title: Be Forgiven
+  date: 2024-09-08T13:00:00
+  draft: false
+  image: https://www.wildwoodag.church/pimg/forgiveness.jpg
+}
+
+
 There is therefore now no condemnation to those who are in Christ Jesus, who do not walk according to the flesh, but according to the Spirit. Romans 8:1
 
 Mark Batterson says, “We often think of the Greatest Commandment as two-dimensional: love God and love others. But there is a third dimension: love yourself. It is hard to love others when you don’t love yourself. How do you love yourself? You let God love you. You let God forgive you. And you accept His assessment of who you are.”

@@ -1,13 +1,19 @@
----
-title: Doers of the Word
-date: 2023-10-15
-image: https://www.wildwoodag.church/pimg/gloves.png
-categories:
-  - New Life
-tags:
-  - doers
-  - relationship
----
+{
+  title: Doers of the Word
+  date: 2023-10-15
+  image: https://www.wildwoodag.church/pimg/gloves.png
+  categories:
+  [
+    New Life
+  ]
+  tags:
+  [
+    doers
+    relationship
+  ]
+  template: post.html
+}
+
 
 But be doers of the word, and not hearers only, deceiving yourselves. James 1:22
 

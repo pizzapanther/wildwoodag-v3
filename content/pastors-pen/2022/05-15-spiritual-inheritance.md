@@ -1,13 +1,19 @@
----
-title: Spiritual Inheritance
-date: 2022-05-15
-image: https://www.wildwoodag.church/pimg/2022-05-15-spiritual-inheritance.png
-categories:
-  - Legacy
-tags:
-  - Enoch
-  - inheritance
----
+{
+  title: Spiritual Inheritance
+  date: 2022-05-15
+  image: https://www.wildwoodag.church/pimg/2022-05-15-spiritual-inheritance.png
+  categories:
+  [
+    Legacy
+  ]
+  tags:
+  [
+    Enoch
+    inheritance
+  ]
+  template: post.html
+}
+
 
 And Enoch walked with God; and he was not, for God took him.  Gen. 5:24
 
@@ -16,6 +22,3 @@ By faith Enoch was taken away so that he did not see death, and was not found, b
 When we think about leaving something for our children, often our thoughts go to money or possessions: an inheritance. However, I believe that there is something many times better than these!
 
 Enoch left a spiritual inheritance that was amazing! If we leave such an inheritance behind, it will not happen by accident.
-
-
-

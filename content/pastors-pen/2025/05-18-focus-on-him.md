@@ -1,16 +1,22 @@
----
-template: post
-categories:
-  - Christian Living
-tags:
-  - Paul
-  - David
-  - focus
-title: Focus on Him
-draft: false
-date: 2025-05-17T06:00:00.000Z
-image: https://www.wildwoodag.church/pimg/focus.jpg
----
+{
+  template: post.html
+  categories:
+  [
+    Christian Living
+  ]
+  tags:
+  [
+    Paul
+    David
+    focus
+  ]
+  title: Focus on Him
+  draft: false
+  date: 2025-05-17T06:00:00
+  image: https://www.wildwoodag.church/pimg/focus.jpg
+}
+
+
 One thing I have desired of the Lord, that will I seek: that I may dwell in the house of the Lord all the days of my life, to behold the beauty of the Lord, and to inquire in His temple. Psalms 27:4
 
 King David and the Apostle Paul had something in common, something that is fascinating: their focus on one thing!

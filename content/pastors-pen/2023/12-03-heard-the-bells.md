@@ -1,13 +1,19 @@
----
-title: I Heard the Bells
-date: 2023-12-03
-image: https://www.wildwoodag.church/pimg/christmas-bells.jpg
-categories:
-  - Christmas
-tags:
-  - bells
-  - Longfellow
----
+{
+  title: I Heard the Bells
+  date: 2023-12-03
+  image: https://www.wildwoodag.church/pimg/christmas-bells.jpg
+  categories:
+  [
+    Christmas
+  ]
+  tags:
+  [
+    bells
+    Longfellow
+  ]
+  template: post.html
+}
+
 
 “I heard the bells on Christmas Day<br>
 Their old, familiar carols play,<br>
@@ -40,4 +46,3 @@ Then pealed the bells more loud and deep:<br>
 With peace on earth, good-will to men."
 
 H.W. Longfellow
-

@@ -1,15 +1,21 @@
----
-title: Bread of Life
-date: 2023-10-01
-image: https://www.wildwoodag.church/pimg/bread-of-life.jpg
-categories:
-  - New Life
-tags:
-  - bread
-  - relationship
-  - life
-  - showbread
----
+{
+  title: Bread of Life
+  date: 2023-10-01
+  image: https://www.wildwoodag.church/pimg/bread-of-life.jpg
+  categories:
+  [
+    New Life
+  ]
+  tags:
+  [
+    bread
+    relationship
+    life
+    showbread
+  ]
+  template: post.html
+}
+
 
 Jesus said to them, "I Am the bread of life. He who comes to Me shall never hunger,… John 6:35
 

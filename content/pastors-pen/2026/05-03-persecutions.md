@@ -1,16 +1,21 @@
----
-template: post
-categories:
-  - Christian Living
-tags:
-  - persecution
-  - church
-  - saints
-title: Persecution
-draft: false
-date: 2026-05-03T00:00:00.000Z
-image: https://www.wildwoodag.church/pimg/persecution.jpg
----
+{
+  template: post.html
+  categories:
+  [
+    Christian Living
+  ]
+  tags:
+  [
+    persecution
+    church
+    saints
+  ]
+  title: Persecution
+  draft: false
+  date: 2026-05-03T00:00:00
+  image: https://www.wildwoodag.church/pimg/persecution.jpg
+}
+
 
 Precious in the sight of the Lord is the death of His saints. Psalm 116:15
 

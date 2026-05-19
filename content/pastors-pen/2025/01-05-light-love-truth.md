@@ -1,17 +1,23 @@
----
-template: post
-categories:
-  - Christian Living
-tags:
-  - John Greenleaf Whittier
-  - Truth
-  - Love
-  - Light
-title: Light, Love, Truth
-draft: false
-image: https://www.wildwoodag.church/pimg/love-hd-wallpapers-2013.jpg
-date: 2025-01-05T06:00:00.000Z
----
+{
+  template: post.html
+  categories:
+  [
+    Christian Living
+  ]
+  tags:
+  [
+    John Greenleaf Whittier
+    Truth
+    Love
+    Light
+  ]
+  title: Light, Love, Truth
+  draft: false
+  image: https://www.wildwoodag.church/pimg/love-hd-wallpapers-2013.jpg
+  date: 2025-01-05T06:00:00
+}
+
+
 One of my favorite poets wrote this…
 
 “Our fathers to their graves have gone; their strife is past – their triumph won.

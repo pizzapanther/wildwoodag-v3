@@ -1,13 +1,19 @@
----
-title: Faith By My Works
-date: 2022-02-27
-image: https://www.wildwoodag.church/pimg/2022-02-27-faith-by-my-works.jpg
-categories:
-  - Faith
-tags:
-  - faith
-  - works
----
+{
+  title: Faith By My Works
+  date: 2022-02-27
+  image: https://www.wildwoodag.church/pimg/2022-02-27-faith-by-my-works.jpg
+  categories:
+  [
+    Faith
+  ]
+  tags:
+  [
+    faith
+    works
+  ]
+  template: post.html
+}
+
 
 I will show you my faith by my works…
 
@@ -20,8 +26,3 @@ In 1965 IBM had just produced the primitive ‘ancestor’ of the personal compu
 We, however, do the same thing when talk ad nauseum about faith but actually do nothing.
 
 The beauty of what the Holy Spirit is speaking to us in the book of James about faith and works is found in being doers of the Word, not just being people who hear and babble about it.
-
-
-
-
-

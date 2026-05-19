@@ -1,17 +1,22 @@
----
-template: post
-categories:
-  - Christian Living
-tags:
-  - love
-  - church
-  - nations
-  - people
-title: Lesson of Love
-draft: false
-date: 2026-04-26T00:00:00.000Z
-image: https://www.wildwoodag.church/pimg/love-meme.jpg
----
+{
+  template: post.html
+  categories:
+  [
+    Christian Living
+  ]
+  tags:
+  [
+    love
+    church
+    nations
+    people
+  ]
+  title: Lesson of Love
+  draft: false
+  date: 2026-04-26T00:00:00
+  image: https://www.wildwoodag.church/pimg/love-meme.jpg
+}
+
 
 By this all will know that you are My disciples, if you have love for one another. John 13:35
 

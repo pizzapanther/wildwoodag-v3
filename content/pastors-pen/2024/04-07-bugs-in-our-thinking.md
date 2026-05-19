@@ -1,16 +1,22 @@
----
-template: post
-categories:
-  - Christian Living
-tags:
-  - bugs
-  - old
-  - age
-title: Bugs in Our Thinking
-date: 2024-04-07T05:00:00.000Z
-draft: false
-image: https://www.wildwoodag.church/pimg/bugs.png
----
+{
+  template: post.html
+  categories:
+  [
+    Christian Living
+  ]
+  tags:
+  [
+    bugs
+    old
+    age
+  ]
+  title: Bugs in Our Thinking
+  date: 2024-04-07T05:00:00
+  draft: false
+  image: https://www.wildwoodag.church/pimg/bugs.png
+}
+
+
 Is anything too hard for the Lord?” Genesis 18:14
 
 This is the answer that God gave to Abraham and Sarah after Sarah laughed about having a baby.

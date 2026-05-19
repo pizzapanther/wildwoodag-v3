@@ -1,16 +1,22 @@
----
-template: post
-categories:
-  - Christ
-tags:
-  - Lamb of God
-  - Christ
-  - debt
-title: A Debt He Did Not Owe
-draft: false
-date: 2025-03-30T05:00:00.000Z
-image: https://www.wildwoodag.church/pimg/cross-carry.jpeg
----
+{
+  template: post.html
+  categories:
+  [
+    Christ
+  ]
+  tags:
+  [
+    Lamb of God
+    Christ
+    debt
+  ]
+  title: A Debt He Did Not Owe
+  draft: false
+  date: 2025-03-30T05:00:00
+  image: https://www.wildwoodag.church/pimg/cross-carry.jpeg
+}
+
+
 Therefore, when He came into the world, He said: “Sacrifice and offering You did not desire,
 But a body You have prepared for Me. 6 In burnt offerings and sacrifices for sin You had no pleasure. 7 Then I said, ‘Behold, I have come—
 In the volume of the book it is written of Me—

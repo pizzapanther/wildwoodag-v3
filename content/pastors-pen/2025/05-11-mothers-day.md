@@ -1,16 +1,22 @@
----
-template: post
-categories:
-  - Christian Living
-tags:
-  - mothers
-  - Proverbs
-  - honor
-title: Mother's Day
-draft: false
-date: 2025-05-10T06:00:00.000Z
-image: https://www.wildwoodag.church/pimg/mothers-day.jpeg
----
+{
+  template: post.html
+  categories:
+  [
+    Christian Living
+  ]
+  tags:
+  [
+    mothers
+    Proverbs
+    honor
+  ]
+  title: Mother's Day
+  draft: false
+  date: 2025-05-10T06:00:00
+  image: https://www.wildwoodag.church/pimg/mothers-day.jpeg
+}
+
+
 Honor your father and mother which is the first commandment with promise. Ephesians 6:2
 
 The ideal mother or mother of our children is just that: “an ideal.” It is the goal, so aim high!

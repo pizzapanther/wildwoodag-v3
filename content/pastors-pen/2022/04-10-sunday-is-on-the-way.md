@@ -1,13 +1,19 @@
----
-title: Sunday is on the Way
-date: 2022-04-10
-image: https://www.wildwoodag.church/pimg/2022-04-10-sunday-is-on-the-way.jpeg
-categories:
-  - Christ
-tags:
-  - Sunday
-  - pain
----
+{
+  title: Sunday is on the Way
+  date: 2022-04-10
+  image: https://www.wildwoodag.church/pimg/2022-04-10-sunday-is-on-the-way.jpeg
+  categories:
+  [
+    Christ
+  ]
+  tags:
+  [
+    Sunday
+    pain
+  ]
+  template: post.html
+}
+
 
 …they led Him away,… And when they had come to the place called Calvary, there they crucified Him… Luke 23:26, 33
 
@@ -20,6 +26,3 @@ Yes, it was Friday: but Sunday is on the way!
 Up until that point, no one really understood. No one had the faith to believe what Christ said was necessary, and what would happen. This day had pain and suffering enough to go around.
 
 <b>Ah, but Sunday. Sunday is on the way!</b>
-
-
-

@@ -1,16 +1,22 @@
----
-template: post
-categories:
-  - Sin
-tags:
-  - existence
-  - dead
-  - God
-title: God is Not Dead
-date: 2024-07-14T06:00:00.000Z
-draft: false
-image: https://www.wildwoodag.church/pimg/54a978972f867.jpg
----
+{
+  template: post.html
+  categories:
+  [
+    Sin
+  ]
+  tags:
+  [
+    existence
+    dead
+    God
+  ]
+  title: God is Not Dead
+  date: 2024-07-14T06:00:00
+  draft: false
+  image: https://www.wildwoodag.church/pimg/54a978972f867.jpg
+}
+
+
 So now present your members as slaves of righteousness for holiness. For when you were slaves of sin, you were free in regard to righteousness. Romans 6:19-20 
 
 We have just celebrated 248 years of liberty for our country, and in the process the believer must think about  the liberty we receive when the spiritual chains that bind us fall off because we are set free in Christ. 

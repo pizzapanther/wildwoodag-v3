@@ -1,14 +1,20 @@
----
-title: Prince of Peace
-date: 2022-08-07
-image: https://www.wildwoodag.church/pimg/2022-08-07-prince-of-peace.jpeg
-categories:
-  - Peace
-tags:
-  - peace
-  - Larry King
-  - Harrison Ford
----
+{
+  title: Prince of Peace
+  date: 2022-08-07
+  image: https://www.wildwoodag.church/pimg/2022-08-07-prince-of-peace.jpeg
+  categories:
+  [
+    Peace
+  ]
+  tags:
+  [
+    peace
+    Larry King
+    Harrison Ford
+  ]
+  template: post.html
+}
+
 
 For He Himself is our peace, who has made both one, and has broken down the middle wall of separation. Eph. 2:14
 
@@ -23,8 +29,3 @@ Third: Where do you go for protection? When you live in sin and are unrepentant,
 Fourth: With whom do you sympathize? Christ is your Prince if you are able to celebrate godliness and the victories of the Lord.
 
 And fifth: Have you joined the ‘troops’ that fight against the enemy-satan?  Because standing on the sidelines is NOT enough! We are needed on the front lines, not just in the Palace with the Prince.
-
-
-
-
-

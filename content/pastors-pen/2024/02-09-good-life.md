@@ -1,16 +1,22 @@
----
-template: post
-categories:
-  - Poetry
-tags:
-  - family
-  - evening
-  - good life
-title: A Good Life
-date: 2025-02-09T06:00:00.000Z
-draft: false
-image: https://www.wildwoodag.church/pimg/good-life.jpg
----
+{
+  template: post.html
+  categories:
+  [
+    Poetry
+  ]
+  tags:
+  [
+    family
+    evening
+    good life
+  ]
+  title: A Good Life
+  date: 2025-02-09T06:00:00
+  draft: false
+  image: https://www.wildwoodag.church/pimg/good-life.jpg
+}
+
+
 When evening comes and the day is done, I look to the west, to the setting sun;
 
 And I long for family, I long for friends, wondering what tomorrow brings.

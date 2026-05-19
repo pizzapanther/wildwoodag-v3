@@ -1,16 +1,22 @@
----
-template: post
-categories:
-  - Christian Living
-tags:
-  - Christ
-  - Thanksgiving
-  - healing
-title: Heal Me Like That
-date: 2024-11-24T06:00:00.000Z
-draft: false
-image: https://www.wildwoodag.church/pimg/10807442785_8bcfb910b3_b.jpg
----
+{
+  template: post.html
+  categories:
+  [
+    Christian Living
+  ]
+  tags:
+  [
+    Christ
+    Thanksgiving
+    healing
+  ]
+  title: Heal Me Like That
+  date: 2024-11-24T06:00:00
+  draft: false
+  image: https://www.wildwoodag.church/pimg/10807442785_8bcfb910b3_b.jpg
+}
+
+
 And one of them, when he saw that he was healed, returned, and with a loud voice glorified God… Luke 17:15
 
 You might know this story. There were ten men with leprosy and Christ healed them. However, only one returned to thank the Lord.

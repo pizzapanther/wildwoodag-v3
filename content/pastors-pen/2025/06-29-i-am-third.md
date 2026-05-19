@@ -1,16 +1,22 @@
----
-template: post
-categories:
-  - Christian Living
-tags:
-  - third
-  - first
-  - second
-title: I Am Third
-draft: false
-date: 2025-06-29T06:00:00.000Z
-image: https://www.wildwoodag.church/pimg/third.png
----
+{
+  template: post.html
+  categories:
+  [
+    Christian Living
+  ]
+  tags:
+  [
+    third
+    first
+    second
+  ]
+  title: I Am Third
+  draft: false
+  date: 2025-06-29T06:00:00
+  image: https://www.wildwoodag.church/pimg/third.png
+}
+
+
 But seek first the kingdom of God and His righteousness, and all these things shall be added to you. Matthew 6:33
 
 The principle of “I am third” is an important guide for me. It reminds me of three things:

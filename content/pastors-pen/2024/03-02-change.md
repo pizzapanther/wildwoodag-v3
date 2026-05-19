@@ -1,16 +1,22 @@
----
-template: post
-categories:
-  - Poems
-tags:
-  - poem
-  - Daniel
-  - change
-title: Change
-date: 2025-03-02T06:00:00.000Z
-draft: false
-image: https://www.wildwoodag.church/pimg/seasons-change.jpg
----
+{
+  template: post.html
+  categories:
+  [
+    Poems
+  ]
+  tags:
+  [
+    poem
+    Daniel
+    change
+  ]
+  title: Change
+  date: 2025-03-02T06:00:00
+  draft: false
+  image: https://www.wildwoodag.church/pimg/seasons-change.jpg
+}
+
+
 And He changes the times and the seasons; Daniel 2:21
 
 ## Change

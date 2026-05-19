@@ -1,17 +1,23 @@
----
-template: post
-categories:
-  - Christian Living
-tags:
-  - conflict
-  - trials
-  - irritation
-  - praise
-title: Praise with Irritation
-draft: false
-date: 2025-02-23T06:00:00.000Z
-image: https://www.wildwoodag.church/pimg/3852828218_9022bdacba_z.jpg
----
+{
+  template: post.html
+  categories:
+  [
+    Christian Living
+  ]
+  tags:
+  [
+    conflict
+    trials
+    irritation
+    praise
+  ]
+  title: Praise with Irritation
+  draft: false
+  date: 2025-02-23T06:00:00
+  image: https://www.wildwoodag.church/pimg/3852828218_9022bdacba_z.jpg
+}
+
+
 Bless the Lord, O my soul; and all that is within me, bless His holy name!  Psalm 103:1
 
 There is a tough lesson that believers must learn in order to trust and praise God. It is what is learned between a promise and its fulfillment! No matter how long our trial is, hours, days, weeks or months, our response must be the same: to declare the goodness and faithfulness of God in the midst of the storm (trial).

@@ -1,15 +1,21 @@
----
-template: post
-categories:
-  - Christ
-tags:
-  - Messiah
-  - prophets
-title: Messiah
-draft: false
-date: 2025-03-23T05:00:00.000Z
-image: https://www.wildwoodag.church/pimg/bible-reading.jpg
----
+{
+  template: post.html
+  categories:
+  [
+    Christ
+  ]
+  tags:
+  [
+    Messiah
+    prophets
+  ]
+  title: Messiah
+  draft: false
+  date: 2025-03-23T05:00:00
+  image: https://www.wildwoodag.church/pimg/bible-reading.jpg
+}
+
+
 And beginning at Moses and all the Prophets, He expounded to them in all the Scriptures the things concerning Himself. Luke 24:27
 
 *Exodus 12:1-14,46 The Messiah as the Passover Lamb. John 19:31-36, 1 Cor. 5:7, 1 Peter 1:19.

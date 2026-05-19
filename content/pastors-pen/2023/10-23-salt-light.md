@@ -1,14 +1,20 @@
----
-title: Salt and Light
-date: 2023-10-29
-image: https://www.wildwoodag.church/pimg/salt-n-light.jpg
-categories:
-  - New Life
-tags:
-  - salt
-  - light
-  - ready
----
+{
+  title: Salt and Light
+  date: 2023-10-29
+  image: https://www.wildwoodag.church/pimg/salt-n-light.jpg
+  categories:
+  [
+    New Life
+  ]
+  tags:
+  [
+    salt
+    light
+    ready
+  ]
+  template: post.html
+}
+
 
 But sanctify the Lord God in your hearts, and always be ready to give a defense to everyone who asks you a reason for the hope that is in you… 1 Peter 3:15
 

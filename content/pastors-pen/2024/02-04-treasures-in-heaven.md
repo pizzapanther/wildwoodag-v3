@@ -1,13 +1,19 @@
----
-title: Store Your Treasures in Heaven
-date: 2024-02-04
-image: https://www.wildwoodag.church/pimg/treasure.jpeg
-categories:
-  - Christian Living
-tags:
-  - treasure
-  - heaven
----
+{
+  title: Store Your Treasures in Heaven
+  date: 2024-02-04
+  image: https://www.wildwoodag.church/pimg/treasure.jpeg
+  categories:
+  [
+    Christian Living
+  ]
+  tags:
+  [
+    treasure
+    heaven
+  ]
+  template: post.html
+}
+
 
 Lay up for yourselves treasures in heaven, where neither moth nor rust destroys and where thieves do not break in and steal. Matthew 6:20
 

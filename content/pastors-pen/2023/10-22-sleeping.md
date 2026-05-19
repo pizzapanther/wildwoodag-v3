@@ -1,14 +1,20 @@
----
-title: Will We Be Sleepig?
-date: 2023-10-22
-image: https://www.wildwoodag.church/pimg/puma.jpg
-categories:
-  - Christ
-tags:
-  - sleeping
-  - manager
-  - King
----
+{
+  title: Will We Be Sleepig?
+  date: 2023-10-22
+  image: https://www.wildwoodag.church/pimg/puma.jpg
+  categories:
+  [
+    Christ
+  ]
+  tags:
+  [
+    sleeping
+    manager
+    King
+  ]
+  template: post.html
+}
+
 
 Watch therefore,… lest coming suddenly, He find you sleeping. Mark 13:35-36
 
