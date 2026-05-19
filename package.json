@@ -1,0 +1,36 @@
+{
+  "name": "wildwoodag-v3",
+  "version": "1.0.0",
+  "description": "wildwoodag.church",
+  "homepage": "https://github.com/pizzapanther/wildwoodag-v3#readme",
+  "bugs": {
+    "url": "https://github.com/pizzapanther/wildwoodag-v3/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pizzapanther/wildwoodag-v3.git"
+  },
+  "license": "BSD-3-Clause",
+  "author": "Paul Bailey",
+  "type": "commonjs",
+  "main": "cal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "targets": {
+    "cal": {
+      "source": "cal.js",
+      "distDir": "assets",
+      "context": "browser",
+      "outputFormat": "global"
+    }
+  },
+  "dependencies": {
+    "@fullcalendar/core": "^6.1.20",
+    "@fullcalendar/daygrid": "^6.1.20",
+    "@fullcalendar/icalendar": "^6.1.20",
+    "@fullcalendar/list": "^6.1.20",
+    "@fullcalendar/moment": "^6.1.20",
+    "parcel": "^2.16.4"
+  }
+}
