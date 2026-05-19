@@ -34,4 +34,5 @@
     ]
   }
   theme: "blessed"
+  extra_settings: extra_settings.py
 }
