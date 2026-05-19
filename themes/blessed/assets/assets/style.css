@@ -10930,6 +10930,7 @@ blockquote p {
   margin-bottom: 0;
   font-size: 14px;
   font-weight: 500;
+  color: #fff;
 }
 .copyright-text p a {
   color: var(--tc-body-color);
