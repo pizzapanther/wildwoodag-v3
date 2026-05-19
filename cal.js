@@ -9,7 +9,7 @@ var locale = {
   noEventsText: 'Events Loading ...'
 };
 
-function load_calendar(view) {
+function load_calendar(view, skipRender) {
   var header = {left: '', right: ''};
   if (view == 'dayGridMonth') {
     header = {
@@ -69,6 +69,10 @@ function load_calendar(view) {
       }, 0);
     }
   });
+
+  if (skipRender) {
+    return calendar;
+  }
 
   calendar.render();
 }
