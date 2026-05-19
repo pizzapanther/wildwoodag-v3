@@ -141,7 +141,7 @@ body {
 }
 
 li {
-  margin-bottom: 20px;
+  margin-bottom: 8px;
 }
 
 .font-body {
@@ -10118,7 +10118,6 @@ blockquote p {
 .pagination-wrap .pagination .page-link {
   margin-left: 0;
   padding: 0 0;
-  color: var(--tc-body-color);
   font-weight: 600;
   font-size: 20px;
   line-height: 1;
@@ -10129,7 +10128,9 @@ blockquote p {
   justify-content: center;
   border: 1px solid var(--tc-border-1);
   border-radius: 5px;
-  background: transparent;
+  color: var(--tc-color-white-default);
+  background-color: var(--tc-theme-secondary);
+  border-color: var(--tc-theme-secondary);
 }
 .pagination-wrap .pagination .page-link:hover {
   color: var(--tc-color-white-default);
@@ -12089,9 +12090,10 @@ blockquote p {
 }
 .pagination .page-item .page-link {
   border-radius: 50% !important;
-  background-color: var(--tc-color-brand1-50);
   border: none;
-  color: var(--tc-color-brand1-500);
+  color: var(--tc-color-white-default);
+  background-color: var(--tc-theme-secondary);
+  border-color: var(--tc-theme-secondary);
 }
 .pagination .page-item .page-link:hover {
   background-color: var(--tc-color-brand1-500);

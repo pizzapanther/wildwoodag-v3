@@ -1,0 +1,22 @@
+{
+  fields: [
+    {
+      name: title
+      type: forms.CharField
+      kwargs: {
+        max_length: 65
+      }
+    }
+    {
+      name: date
+      type: forms.DateTimeField
+    }
+    {
+      name: body
+      type: forms.CharField
+      kwargs: {
+        widget: forms.Textarea
+      }
+    }
+  ]
+}
