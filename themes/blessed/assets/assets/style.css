@@ -11330,7 +11330,7 @@ blockquote p {
 }
 
 .up-event-cover {
-  position: absolute;
+  /*position: absolute;*/
 }
 .up-event-cover .up-event {
   border-radius: 12px;
