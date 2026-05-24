@@ -1,14 +1,10 @@
----
-template: post.html
-categories:
-  - Christian Living
-tags:
-  - smell
-title: Sweet Smelling Aroma
-draft: false
-date: 2026-05-24T00:00:00.000Z
-image: https://www.wildwoodag.church/pimg/sweet-smell.jpg
----
+{
+  template: post.html
+  title: Sweet Smelling Aroma
+  draft: false
+  date: 2026-05-24T00:00:00.000Z
+  image: https://www.wildwoodag.church/pimg/sweet-smell.jpg
+}
 
 Therefore be imitators of God as dear children. 2) And walk in love, as Christ also has loved us and given Himself for us, an offering and a sacrifice to God for a sweet-smelling aroma. Ephesians 5:1-2
 
