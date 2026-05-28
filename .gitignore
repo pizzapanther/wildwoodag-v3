@@ -209,3 +209,5 @@ __marimo__/
 output/
 node_modules/
 .parcel-cache/
+assets/church-health/
+assets/wildwood-podcast/
