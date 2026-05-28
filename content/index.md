@@ -63,13 +63,21 @@
     return 0;
   }
 
-  function load_events () {
-    if (home_cal.isRendered) {
-      let home_events = home_cal.getEvents();
-      home_events.sort(sort_events);
+  function render_list() {
+    let home_events = home_cal.getEvents();
+    home_events.sort(sort_events);
 
-      home_events = home_events.slice(0, 7);
-      home_events.forEach(insert_event);
+    home_events = home_events.slice(0, 7);
+    home_events.forEach(insert_event);
+  }
+
+  function load_events () {
+    const loaded = document.querySelector("#calendar-js table");
+
+    if (loaded) {
+      setTimeout(() => {
+        render_list();
+      }, 40);
     } else {
       setTimeout(() => {
         load_events();
