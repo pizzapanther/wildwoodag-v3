@@ -19,7 +19,7 @@
 
         <podcast:guid>34d91523-0fd1-5061-8782-1f5177480fa9</podcast:guid>
 
-        <podcast:funding url="https://tithe.ly/give?c=5830091">Donate</podcast:funding>
+        <podcast:funding url="https://give.tithe.ly/?formId=8c269fc0-6865-11ee-90fc-1260ab546d11">Donate</podcast:funding>
 
         <podcast:location geo="geo:29.8805,-98.2365" osm="R113314">Canyon Lake, TX</podcast:location>
         <podcast:medium>podcast</podcast:medium>
