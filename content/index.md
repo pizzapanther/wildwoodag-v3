@@ -64,11 +64,16 @@
   }
 
   function render_list() {
+    let now = Date.now();
     let home_events = home_cal.getEvents();
+    let cnt = 0;
     home_events.sort(sort_events);
-
-    home_events = home_events.slice(0, 7);
-    home_events.forEach(insert_event);
+    home_events.forEach((e) => {
+      if (e.start.getTime() > now && cnt < 7) {
+        insert_event(e);
+        cnt += 1;
+      }
+    });
   }
 
   function load_events () {
