@@ -41,7 +41,7 @@
         <item>
             <title>{{ entry.title | escape }}</title>
             <description>{{ entry.description | strip_html | escape }}</description>
-            <link>https://media.wildwoodag.xyz/{{ entry.media_path | remove_first: "assets/" }}</link>
+            <link>https://www.wildwoodag.church/media/?episode={{ entry.media_path | remove_first: "assets/" }}</link>
             <guid isPermaLink="true">https://media.wildwoodag.xyz/{{ entry.media_path | remove_first: "assets/" }}</guid>
             <pubDate>{{ entry.published }}</pubDate>
             <author>webmaster@pubcrank.com</author>
