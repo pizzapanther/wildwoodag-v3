@@ -7,8 +7,8 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-US</language>
         <generator>Podtube CLI</generator>
-        <pubDate>Tue, 25 Nov 2025 20:40:45 +0000</pubDate>
-        <lastBuildDate>Tue, 25 Nov 2025 20:40:45 +0000</lastBuildDate>
+        <pubDate>Tue, 02 Jun 2026 00:33:58 +0000</pubDate>
+        <lastBuildDate>Tue, 02 Jun 2026 00:33:58 +0000</lastBuildDate>
         <managingEditor>jkautz@stxag.org (Jim Kautz)</managingEditor>
         <webMaster>jkautz@stxag.org (Jim Kautz)</webMaster>
         <image>
@@ -37,33 +37,50 @@
 
         <itunes:image href="https://www.wildwoodag.church/stmn.jpg"/>
 
+        
         <item>
-            <title>Unmet Expectations</title>
-            <description>A topical discussion on how to handle when plans and goals to go the way we hoped.</description>
-            <link>https://media.wildwoodag.xyz/church-health/unmet-expectations.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/church-health/unmet-expectations.mp3</guid>
-            <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+            <title>From the Field with Phipps</title>
+            <description>Special episode with guest Dave Phipps who shares real ministry stories and how God is working in the field.</description>
+            <link>https://media.wildwoodag.xyz/assets/church-health/from-the-field-with-phipps.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/assets/church-health/from-the-field-with-phipps.mp3</guid>
+            <pubDate>Mon, 01 Jun 2026 23:12:18 +0000</pubDate>
             <author>jkautz@stxag.org (Jim Kautz)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/church-health/unmet-expectations.jpg"/>
+            <itunes:image href="https://media.wildwoodag.xyz/assets/church-health/from-the-field-with-phipps.jpg"/>
             <itunes:explicit>false</itunes:explicit>
 
-            <enclosure url="https://media.wildwoodag.xyz/church-health/unmet-expectations.mp3" length="13352397" type="audio/mpeg" />
+            <enclosure url="https://media.wildwoodag.xyz/assets/church-health/from-the-field-with-phipps.mp3" length="22567149" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/stxag_church_health/" protocol="instagram" accountId="@stxag_church_health" accountUrl="https://www.instagram.com/stxag_church_health/" />
             <podcast:socialInteract priority="2" uri="https://www.facebook.com/STXAGChurchHealth" protocol="facebook" accountId="@STXAGChurchHealth" accountUrl="https://www.facebook.com/STXAGChurchHealth" />
         </item>
+        
+        <item>
+            <title>Unmet Expectations</title>
+            <description>A topical discussion on how to handle when plans and goals to go the way we hoped.</description>
+            <link>https://media.wildwoodag.xyz/assets/church-health/unmet-expectations.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/assets/church-health/unmet-expectations.mp3</guid>
+            <pubDate>Thu, 28 May 2026 00:38:55 +0000</pubDate>
+            <author>jkautz@stxag.org (Jim Kautz)</author>
+            <itunes:image href="https://media.wildwoodag.xyz/assets/church-health/unmet-expectations.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
 
+            <enclosure url="https://media.wildwoodag.xyz/assets/church-health/unmet-expectations.mp3" length="10487349" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/stxag_church_health/" protocol="instagram" accountId="@stxag_church_health" accountUrl="https://www.instagram.com/stxag_church_health/" />
+            <podcast:socialInteract priority="2" uri="https://www.facebook.com/STXAGChurchHealth" protocol="facebook" accountId="@STXAGChurchHealth" accountUrl="https://www.facebook.com/STXAGChurchHealth" />
+        </item>
+        
         <item>
             <title>Stop &amp; Look at the Lights</title>
             <description>A topical discussion on the busyness of the season and the benefits of taking time to enjoy it.</description>
-            <link>https://media.wildwoodag.xyz/church-health/stop-look-at-the-lights.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/church-health/stop-look-at-the-lights.mp3</guid>
+            <link>https://media.wildwoodag.xyz/assets/church-health/stop-look-at-the-lights.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/assets/church-health/stop-look-at-the-lights.mp3</guid>
             <pubDate>Tue, 25 Nov 2025 14:51:58 +0000</pubDate>
             <author>jkautz@stxag.org (Jim Kautz)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/church-health/stop-look-at-the-lights.jpg"/>
+            <itunes:image href="https://media.wildwoodag.xyz/assets/church-health/stop-look-at-the-lights.jpg"/>
             <itunes:explicit>false</itunes:explicit>
 
-            <enclosure url="https://media.wildwoodag.xyz/church-health/stop-look-at-the-lights.mp3" length="13352397" type="audio/mpeg" />
+            <enclosure url="https://media.wildwoodag.xyz/assets/church-health/stop-look-at-the-lights.mp3" length="13352397" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/stxag_church_health/" protocol="instagram" accountId="@stxag_church_health" accountUrl="https://www.instagram.com/stxag_church_health/" />
             <podcast:socialInteract priority="2" uri="https://www.facebook.com/STXAGChurchHealth" protocol="facebook" accountId="@STXAGChurchHealth" accountUrl="https://www.facebook.com/STXAGChurchHealth" />
@@ -72,14 +89,14 @@
         <item>
             <title>Consumer or Producer</title>
             <description>A topical discussion on two types of personality modes in the local church. Both play a crucial role and both have seasons of impact!</description>
-            <link>https://media.wildwoodag.xyz/church-health/consumer-or-producer.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/church-health/consumer-or-producer.mp3</guid>
+            <link>https://media.wildwoodag.xyz/assets/church-health/consumer-or-producer.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/assets/church-health/consumer-or-producer.mp3</guid>
             <pubDate>Sat, 27 Sep 2025 21:16:10 +0000</pubDate>
             <author>jkautz@stxag.org (Jim Kautz)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/church-health/consumer-or-producer.jpg"/>
+            <itunes:image href="https://media.wildwoodag.xyz/assets/church-health/consumer-or-producer.jpg"/>
             <itunes:explicit>false</itunes:explicit>
 
-            <enclosure url="https://media.wildwoodag.xyz/church-health/consumer-or-producer.mp3" length="16794189" type="audio/mpeg" />
+            <enclosure url="https://media.wildwoodag.xyz/assets/church-health/consumer-or-producer.mp3" length="16794189" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/stxag_church_health/" protocol="instagram" accountId="@stxag_church_health" accountUrl="https://www.instagram.com/stxag_church_health/" />
             <podcast:socialInteract priority="2" uri="https://www.facebook.com/STXAGChurchHealth" protocol="facebook" accountId="@STXAGChurchHealth" accountUrl="https://www.facebook.com/STXAGChurchHealth" />
@@ -88,14 +105,14 @@
         <item>
             <title>What does the average family expect when they visit your church?</title>
             <description>A topical discussion on what an average family is looking for when they attend your church.</description>
-            <link>https://media.wildwoodag.xyz/church-health/what-does-the-average-family-expect-when-they-visit-your-church.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/church-health/what-does-the-average-family-expect-when-they-visit-your-church.mp3</guid>
+            <link>https://media.wildwoodag.xyz/assets/church-health/what-does-the-average-family-expect-when-they-visit-your-church.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/assets/church-health/what-does-the-average-family-expect-when-they-visit-your-church.mp3</guid>
             <pubDate>Mon, 08 Sep 2025 20:06:17 +0000</pubDate>
             <author>jkautz@stxag.org (Jim Kautz)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/church-health/what-does-the-average-family-expect-when-they-visit-your-church.jpg"/>
+            <itunes:image href="https://media.wildwoodag.xyz/assets/church-health/what-does-the-average-family-expect-when-they-visit-your-church.jpg"/>
             <itunes:explicit>false</itunes:explicit>
 
-            <enclosure url="https://media.wildwoodag.xyz/church-health/what-does-the-average-family-expect-when-they-visit-your-church.mp3" length="29631309" type="audio/mpeg" />
+            <enclosure url="https://media.wildwoodag.xyz/assets/church-health/what-does-the-average-family-expect-when-they-visit-your-church.mp3" length="29631309" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/stxag_church_health/" protocol="instagram" accountId="@stxag_church_health" accountUrl="https://www.instagram.com/stxag_church_health/" />
             <podcast:socialInteract priority="2" uri="https://www.facebook.com/STXAGChurchHealth" protocol="facebook" accountId="@STXAGChurchHealth" accountUrl="https://www.facebook.com/STXAGChurchHealth" />
@@ -104,14 +121,14 @@
         <item>
             <title>Can the church be to techie?</title>
             <description>A topical discussion on the use of technology in all aspects of the local church. Can we over digitize?</description>
-            <link>https://media.wildwoodag.xyz/church-health/can-the-church-be-to-techie.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/church-health/can-the-church-be-to-techie.mp3</guid>
+            <link>https://media.wildwoodag.xyz/assets/church-health/can-the-church-be-to-techie.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/assets/church-health/can-the-church-be-to-techie.mp3</guid>
             <pubDate>Thu, 10 Jul 2025 12:33:01 +0000</pubDate>
             <author>jkautz@stxag.org (Jim Kautz)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/church-health/can-the-church-be-to-techie.jpg"/>
+            <itunes:image href="https://media.wildwoodag.xyz/assets/church-health/can-the-church-be-to-techie.jpg"/>
             <itunes:explicit>false</itunes:explicit>
 
-            <enclosure url="https://media.wildwoodag.xyz/church-health/can-the-church-be-to-techie.mp3" length="26513997" type="audio/mpeg" />
+            <enclosure url="https://media.wildwoodag.xyz/assets/church-health/can-the-church-be-to-techie.mp3" length="26513997" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/stxag_church_health/" protocol="instagram" accountId="@stxag_church_health" accountUrl="https://www.instagram.com/stxag_church_health/" />
             <podcast:socialInteract priority="2" uri="https://www.facebook.com/STXAGChurchHealth" protocol="facebook" accountId="@STXAGChurchHealth" accountUrl="https://www.facebook.com/STXAGChurchHealth" />
@@ -120,14 +137,14 @@
         <item>
             <title>Church Calendar 101</title>
             <description>A topical discussion on how to build a yearly church calendar. We will talk how and when to plan for the next year.</description>
-            <link>https://media.wildwoodag.xyz/church-health/church-calendar-101.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/church-health/church-calendar-101.mp3</guid>
+            <link>https://media.wildwoodag.xyz/assets/church-health/church-calendar-101.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/assets/church-health/church-calendar-101.mp3</guid>
             <pubDate>Tue, 24 Jun 2025 00:44:57 +0000</pubDate>
             <author>jkautz@stxag.org (Jim Kautz)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/church-health/church-calendar-101.jpg"/>
+            <itunes:image href="https://media.wildwoodag.xyz/assets/church-health/church-calendar-101.jpg"/>
             <itunes:explicit>false</itunes:explicit>
 
-            <enclosure url="https://media.wildwoodag.xyz/church-health/church-calendar-101.mp3" length="19619661" type="audio/mpeg" />
+            <enclosure url="https://media.wildwoodag.xyz/assets/church-health/church-calendar-101.mp3" length="19619661" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/stxag_church_health/" protocol="instagram" accountId="@stxag_church_health" accountUrl="https://www.instagram.com/stxag_church_health/" />
             <podcast:socialInteract priority="2" uri="https://www.facebook.com/STXAGChurchHealth" protocol="facebook" accountId="@STXAGChurchHealth" accountUrl="https://www.facebook.com/STXAGChurchHealth" />
@@ -136,14 +153,14 @@
         <item>
             <title>Can Ministry be fun?</title>
             <description>A topical discussion about ministry and ways to make a life of ministry fun and enjoyable.</description>
-            <link>https://media.wildwoodag.xyz/church-health/can-ministry-be-fun.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/church-health/can-ministry-be-fun.mp3</guid>
+            <link>https://media.wildwoodag.xyz/assets/church-health/can-ministry-be-fun.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/assets/church-health/can-ministry-be-fun.mp3</guid>
             <pubDate>Mon, 14 Apr 2025 13:59:08 +0000</pubDate>
             <author>jkautz@stxag.org (Jim Kautz)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/church-health/can-ministry-be-fun.jpg"/>
+            <itunes:image href="https://media.wildwoodag.xyz/assets/church-health/can-ministry-be-fun.jpg"/>
             <itunes:explicit>false</itunes:explicit>
 
-            <enclosure url="https://media.wildwoodag.xyz/church-health/can-ministry-be-fun.mp3" length="23415501" type="audio/mpeg" />
+            <enclosure url="https://media.wildwoodag.xyz/assets/church-health/can-ministry-be-fun.mp3" length="23415501" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/stxag_church_health/" protocol="instagram" accountId="@stxag_church_health" accountUrl="https://www.instagram.com/stxag_church_health/" />
             <podcast:socialInteract priority="2" uri="https://www.facebook.com/STXAGChurchHealth" protocol="facebook" accountId="@STXAGChurchHealth" accountUrl="https://www.facebook.com/STXAGChurchHealth" />
@@ -152,14 +169,14 @@
         <item>
             <title>Signs of an unhealthy church</title>
             <description>A topical discussion on the signs of an unhealthy church.</description>
-            <link>https://media.wildwoodag.xyz/church-health/signs-of-an-unhealthy-church.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/church-health/signs-of-an-unhealthy-church.mp3</guid>
+            <link>https://media.wildwoodag.xyz/assets/church-health/signs-of-an-unhealthy-church.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/assets/church-health/signs-of-an-unhealthy-church.mp3</guid>
             <pubDate>Thu, 06 Feb 2025 00:48:48 +0000</pubDate>
             <author>jkautz@stxag.org (Jim Kautz)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/church-health/signs-of-an-unhealthy-church.jpg"/>
+            <itunes:image href="https://media.wildwoodag.xyz/assets/church-health/signs-of-an-unhealthy-church.jpg"/>
             <itunes:explicit>false</itunes:explicit>
 
-            <enclosure url="https://media.wildwoodag.xyz/church-health/signs-of-an-unhealthy-church.mp3" length="25920333" type="audio/mpeg" />
+            <enclosure url="https://media.wildwoodag.xyz/assets/church-health/signs-of-an-unhealthy-church.mp3" length="25920333" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/stxag_church_health/" protocol="instagram" accountId="@stxag_church_health" accountUrl="https://www.instagram.com/stxag_church_health/" />
             <podcast:socialInteract priority="2" uri="https://www.facebook.com/STXAGChurchHealth" protocol="facebook" accountId="@STXAGChurchHealth" accountUrl="https://www.facebook.com/STXAGChurchHealth" />
@@ -168,14 +185,14 @@
         <item>
             <title>Why things are not always easy</title>
             <description>A topical discussion on why things are not always easy and ways to handle a challenging season.</description>
-            <link>https://media.wildwoodag.xyz/church-health/why-things-are-not-always-easy.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/church-health/why-things-are-not-always-easy.mp3</guid>
+            <link>https://media.wildwoodag.xyz/assets/church-health/why-things-are-not-always-easy.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/assets/church-health/why-things-are-not-always-easy.mp3</guid>
             <pubDate>Tue, 21 Jan 2025 21:25:52 +0000</pubDate>
             <author>jkautz@stxag.org (Jim Kautz)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/church-health/why-things-are-not-always-easy.jpg"/>
+            <itunes:image href="https://media.wildwoodag.xyz/assets/church-health/why-things-are-not-always-easy.jpg"/>
             <itunes:explicit>false</itunes:explicit>
 
-            <enclosure url="https://media.wildwoodag.xyz/church-health/why-things-are-not-always-easy.mp3" length="23370189" type="audio/mpeg" />
+            <enclosure url="https://media.wildwoodag.xyz/assets/church-health/why-things-are-not-always-easy.mp3" length="23370189" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/stxag_church_health/" protocol="instagram" accountId="@stxag_church_health" accountUrl="https://www.instagram.com/stxag_church_health/" />
             <podcast:socialInteract priority="2" uri="https://www.facebook.com/STXAGChurchHealth" protocol="facebook" accountId="@STXAGChurchHealth" accountUrl="https://www.facebook.com/STXAGChurchHealth" />
@@ -184,14 +201,14 @@
         <item>
             <title>Second Missions Term Update</title>
             <description>An update on the mission of Church Health as we start our second term!</description>
-            <link>https://media.wildwoodag.xyz/church-health/second-missions-term-update.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/church-health/second-missions-term-update.mp3</guid>
+            <link>https://media.wildwoodag.xyz/assets/church-health/second-missions-term-update.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/assets/church-health/second-missions-term-update.mp3</guid>
             <pubDate>Tue, 12 Nov 2024 16:33:29 +0000</pubDate>
             <author>jkautz@stxag.org (Jim Kautz)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/church-health/second-missions-term-update.jpg"/>
+            <itunes:image href="https://media.wildwoodag.xyz/assets/church-health/second-missions-term-update.jpg"/>
             <itunes:explicit>false</itunes:explicit>
 
-            <enclosure url="https://media.wildwoodag.xyz/church-health/second-missions-term-update.mp3" length="2859597" type="audio/mpeg" />
+            <enclosure url="https://media.wildwoodag.xyz/assets/church-health/second-missions-term-update.mp3" length="2859597" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/stxag_church_health/" protocol="instagram" accountId="@stxag_church_health" accountUrl="https://www.instagram.com/stxag_church_health/" />
             <podcast:socialInteract priority="2" uri="https://www.facebook.com/STXAGChurchHealth" protocol="facebook" accountId="@STXAGChurchHealth" accountUrl="https://www.facebook.com/STXAGChurchHealth" />
@@ -200,14 +217,14 @@
         <item>
             <title>Why Preparation</title>
             <description>A topical discussion on the benefits of preparing in life and in the local church.</description>
-            <link>https://media.wildwoodag.xyz/church-health/why-preparation.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/church-health/why-preparation.mp3</guid>
+            <link>https://media.wildwoodag.xyz/assets/church-health/why-preparation.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/assets/church-health/why-preparation.mp3</guid>
             <pubDate>Wed, 30 Oct 2024 22:29:58 +0000</pubDate>
             <author>jkautz@stxag.org (Jim Kautz)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/church-health/why-preparation.jpg"/>
+            <itunes:image href="https://media.wildwoodag.xyz/assets/church-health/why-preparation.jpg"/>
             <itunes:explicit>false</itunes:explicit>
 
-            <enclosure url="https://media.wildwoodag.xyz/church-health/why-preparation.mp3" length="19862349" type="audio/mpeg" />
+            <enclosure url="https://media.wildwoodag.xyz/assets/church-health/why-preparation.mp3" length="19862349" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/stxag_church_health/" protocol="instagram" accountId="@stxag_church_health" accountUrl="https://www.instagram.com/stxag_church_health/" />
             <podcast:socialInteract priority="2" uri="https://www.facebook.com/STXAGChurchHealth" protocol="facebook" accountId="@STXAGChurchHealth" accountUrl="https://www.facebook.com/STXAGChurchHealth" />
@@ -216,14 +233,14 @@
         <item>
             <title>Why Community?</title>
             <description>A topical discussion on the importance of the local church’s role in the community it resides in.</description>
-            <link>https://media.wildwoodag.xyz/church-health/why-community.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/church-health/why-community.mp3</guid>
+            <link>https://media.wildwoodag.xyz/assets/church-health/why-community.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/assets/church-health/why-community.mp3</guid>
             <pubDate>Mon, 12 Aug 2024 00:41:10 +0000</pubDate>
             <author>jkautz@stxag.org (Jim Kautz)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/church-health/why-community.jpg"/>
+            <itunes:image href="https://media.wildwoodag.xyz/assets/church-health/why-community.jpg"/>
             <itunes:explicit>false</itunes:explicit>
 
-            <enclosure url="https://media.wildwoodag.xyz/church-health/why-community.mp3" length="20751309" type="audio/mpeg" />
+            <enclosure url="https://media.wildwoodag.xyz/assets/church-health/why-community.mp3" length="20751309" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/stxag_church_health/" protocol="instagram" accountId="@stxag_church_health" accountUrl="https://www.instagram.com/stxag_church_health/" />
             <podcast:socialInteract priority="2" uri="https://www.facebook.com/STXAGChurchHealth" protocol="facebook" accountId="@STXAGChurchHealth" accountUrl="https://www.facebook.com/STXAGChurchHealth" />
@@ -232,14 +249,14 @@
         <item>
             <title>Why Planning</title>
             <description>A topical discussion on the benefits of planning in your personal life and ministry. We also discuss the benefits of a succession plan in the local church.</description>
-            <link>https://media.wildwoodag.xyz/church-health/why-planning.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/church-health/why-planning.mp3</guid>
+            <link>https://media.wildwoodag.xyz/assets/church-health/why-planning.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/assets/church-health/why-planning.mp3</guid>
             <pubDate>Thu, 02 May 2024 14:53:19 +0000</pubDate>
             <author>jkautz@stxag.org (Jim Kautz)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/church-health/why-planning.jpg"/>
+            <itunes:image href="https://media.wildwoodag.xyz/assets/church-health/why-planning.jpg"/>
             <itunes:explicit>false</itunes:explicit>
 
-            <enclosure url="https://media.wildwoodag.xyz/church-health/why-planning.mp3" length="29650509" type="audio/mpeg" />
+            <enclosure url="https://media.wildwoodag.xyz/assets/church-health/why-planning.mp3" length="29650509" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/stxag_church_health/" protocol="instagram" accountId="@stxag_church_health" accountUrl="https://www.instagram.com/stxag_church_health/" />
             <podcast:socialInteract priority="2" uri="https://www.facebook.com/STXAGChurchHealth" protocol="facebook" accountId="@STXAGChurchHealth" accountUrl="https://www.facebook.com/STXAGChurchHealth" />
@@ -248,30 +265,14 @@
         <item>
             <title>Why Missions?</title>
             <description>Special guests Roger &amp; Debbi Audorff join us for a topical discussion on the all things missions.</description>
-            <link>https://media.wildwoodag.xyz/church-health/why-missions.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/church-health/why-missions.mp3</guid>
+            <link>https://media.wildwoodag.xyz/assets/church-health/why-missions.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/assets/church-health/why-missions.mp3</guid>
             <pubDate>Mon, 08 Apr 2024 21:45:26 +0000</pubDate>
             <author>jkautz@stxag.org (Jim Kautz)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/church-health/why-missions.jpg"/>
+            <itunes:image href="https://media.wildwoodag.xyz/assets/church-health/why-missions.jpg"/>
             <itunes:explicit>false</itunes:explicit>
 
-            <enclosure url="https://media.wildwoodag.xyz/church-health/why-missions.mp3" length="38966349" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/stxag_church_health/" protocol="instagram" accountId="@stxag_church_health" accountUrl="https://www.instagram.com/stxag_church_health/" />
-            <podcast:socialInteract priority="2" uri="https://www.facebook.com/STXAGChurchHealth" protocol="facebook" accountId="@STXAGChurchHealth" accountUrl="https://www.facebook.com/STXAGChurchHealth" />
-        </item>
-        
-        <item>
-            <title>Healthy Lifestyle - Spiritual Health</title>
-            <description>A topical discussion about the importance of our spiritual health.</description>
-            <link>https://media.wildwoodag.xyz/church-health/healthy-lifestyle-spiritual-health.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/church-health/healthy-lifestyle-spiritual-health.mp3</guid>
-            <pubDate>Fri, 08 Mar 2024 20:46:09 +0000</pubDate>
-            <author>jkautz@stxag.org (Jim Kautz)</author>
-            <itunes:image href="https://media.wildwoodag.xyz/church-health/healthy-lifestyle-spiritual-health.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/church-health/healthy-lifestyle-spiritual-health.mp3" length="35990349" type="audio/mpeg" />
+            <enclosure url="https://media.wildwoodag.xyz/assets/church-health/why-missions.mp3" length="38966349" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/stxag_church_health/" protocol="instagram" accountId="@stxag_church_health" accountUrl="https://www.instagram.com/stxag_church_health/" />
             <podcast:socialInteract priority="2" uri="https://www.facebook.com/STXAGChurchHealth" protocol="facebook" accountId="@STXAGChurchHealth" accountUrl="https://www.facebook.com/STXAGChurchHealth" />
