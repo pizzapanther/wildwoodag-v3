@@ -9,8 +9,8 @@
         <generator>Podtube CLI</generator>
         <pubDate>{{ utcnow }}</pubDate>
         <lastBuildDate>{{ utcnow }}</lastBuildDate>
-        <managingEditor>jkautz@stxag.org (Jim Kautz)</managingEditor>
-        <webMaster>jkautz@stxag.org (Jim Kautz)</webMaster>
+        <managingEditor>webmaster@pubcrank.com</managingEditor>
+        <webMaster>webmaster@pubcrank.com</webMaster>
         <image>
             <url>https://www.wildwoodag.church/stmn.jpg</url>
             <title>Let's Talk Church Health</title>
@@ -32,7 +32,7 @@
 
         <itunes:owner>
             <itunes:name>Jim Kautz</itunes:name>
-            <itunes:email>jkautz@stxag.org</itunes:email>
+            <itunes:email>webmaster@pubcrank.com</itunes:email>
         </itunes:owner>
 
         <itunes:image href="https://www.wildwoodag.church/stmn.jpg"/>
@@ -44,7 +44,7 @@
             <link>https://media.wildwoodag.xyz/{{ entry.media_path | remove_first: "assets/" }}</link>
             <guid isPermaLink="true">https://media.wildwoodag.xyz/{{ entry.media_path | remove_first: "assets/" }}</guid>
             <pubDate>{{ entry.published }}</pubDate>
-            <author>jkautz@stxag.org (Jim Kautz)</author>
+            <author>webmaster@pubcrank.com</author>
             <itunes:image href="https://media.wildwoodag.xyz/{{ entry.thumb_path | remove_first: 'assets/' }}"/>
             <itunes:explicit>false</itunes:explicit>
 

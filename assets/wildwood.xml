@@ -7,10 +7,10 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-US</language>
         <generator>Podtube CLI</generator>
-        <pubDate>Tue, 02 Jun 2026 00:40:48 +0000</pubDate>
-        <lastBuildDate>Tue, 02 Jun 2026 00:40:48 +0000</lastBuildDate>
-        <managingEditor>podcast@wildwoodag.church (Wildwood)</managingEditor>
-        <webMaster>podcast@wildwoodag.church (Wildwood)</webMaster>
+        <pubDate>Tue, 02 Jun 2026 01:17:37 +0000</pubDate>
+        <lastBuildDate>Tue, 02 Jun 2026 01:17:37 +0000</lastBuildDate>
+        <managingEditor>webmaster@pubcrank.com</managingEditor>
+        <webMaster>webmaster@pubcrank.com</webMaster>
         <image>
             <url>https://www.wildwoodag.church/icons/android-chrome-512x512.png</url>
             <title>Wildwood Assembly Podcast</title>
@@ -31,8 +31,8 @@
         <itunes:category text="Education"/>
 
         <itunes:owner>
-            <itunes:name>Wildwood</itunes:name>
-            <itunes:email>podcast@wildwoodag.church (Wildwood)</itunes:email>
+            <itunes:name>Webmaster</itunes:name>
+            <itunes:email>webmaster@pubcrank.com</itunes:email>
         </itunes:owner>
 
         <itunes:image href="https://www.wildwoodag.church/icons/android-chrome-512x512.png"/>
@@ -44,7 +44,7 @@
             <link>https://media.wildwoodag.xyz/wildwood-podcast/impulse-to-hide-from-god-may-2026.mp3</link>
             <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/impulse-to-hide-from-god-may-2026.mp3</guid>
             <pubDate>Sun, 31 May 2026 20:11:14 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <author>webmaster@pubcrank.com</author>
             <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/impulse-to-hide-from-god-may-2026.jpg"/>
             <itunes:explicit>false</itunes:explicit>
 
@@ -59,7 +59,7 @@
             <link>https://media.wildwoodag.xyz/wildwood-podcast/that-which-is-above-may-2026.mp3</link>
             <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/that-which-is-above-may-2026.mp3</guid>
             <pubDate>Thu, 28 May 2026 19:11:04 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <author>webmaster@pubcrank.com</author>
             <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/that-which-is-above-may-2026.jpg"/>
             <itunes:explicit>false</itunes:explicit>
 
@@ -74,7 +74,7 @@
             <link>https://media.wildwoodag.xyz/wildwood-podcast/faith-vs-fear-may-2026.mp3</link>
             <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/faith-vs-fear-may-2026.mp3</guid>
             <pubDate>Tue, 26 May 2026 22:42:19 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <author>webmaster@pubcrank.com</author>
             <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/faith-vs-fear-may-2026.jpg"/>
             <itunes:explicit>false</itunes:explicit>
 
@@ -89,7 +89,7 @@
             <link>https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-8-may-2026.mp3</link>
             <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-8-may-2026.mp3</guid>
             <pubDate>Thu, 21 May 2026 07:30:57 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <author>webmaster@pubcrank.com</author>
             <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-8-may-2026.jpg"/>
             <itunes:explicit>false</itunes:explicit>
 
@@ -104,7 +104,7 @@
             <link>https://media.wildwoodag.xyz/wildwood-podcast/move-on-from-survive-to-thrive.mp3</link>
             <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/move-on-from-survive-to-thrive.mp3</guid>
             <pubDate>Sun, 17 May 2026 20:13:15 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <author>webmaster@pubcrank.com</author>
             <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/move-on-from-survive-to-thrive.jpg"/>
             <itunes:explicit>false</itunes:explicit>
 
@@ -119,7 +119,7 @@
             <link>https://media.wildwoodag.xyz/wildwood-podcast/romans-part-13-may-2026.mp3</link>
             <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/romans-part-13-may-2026.mp3</guid>
             <pubDate>Fri, 15 May 2026 19:06:22 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <author>webmaster@pubcrank.com</author>
             <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/romans-part-13-may-2026.jpg"/>
             <itunes:explicit>false</itunes:explicit>
 
@@ -134,7 +134,7 @@
             <link>https://media.wildwoodag.xyz/wildwood-podcast/mother-s-day-may-2026.mp3</link>
             <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/mother-s-day-may-2026.mp3</guid>
             <pubDate>Mon, 11 May 2026 12:27:57 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <author>webmaster@pubcrank.com</author>
             <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/mother-s-day-may-2026.jpg"/>
             <itunes:explicit>false</itunes:explicit>
 
@@ -149,7 +149,7 @@
             <link>https://media.wildwoodag.xyz/wildwood-podcast/the-road-not-taken-may-2026.mp3</link>
             <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/the-road-not-taken-may-2026.mp3</guid>
             <pubDate>Wed, 06 May 2026 21:35:05 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <author>webmaster@pubcrank.com</author>
             <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/the-road-not-taken-may-2026.jpg"/>
             <itunes:explicit>false</itunes:explicit>
 
@@ -164,7 +164,7 @@
             <link>https://media.wildwoodag.xyz/wildwood-podcast/culture-wars.mp3</link>
             <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/culture-wars.mp3</guid>
             <pubDate>Mon, 04 May 2026 19:49:20 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <author>webmaster@pubcrank.com</author>
             <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/culture-wars.jpg"/>
             <itunes:explicit>false</itunes:explicit>
 
@@ -179,7 +179,7 @@
             <link>https://media.wildwoodag.xyz/wildwood-podcast/children-of-the-dust-may-2026.mp3</link>
             <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/children-of-the-dust-may-2026.mp3</guid>
             <pubDate>Sun, 03 May 2026 19:34:16 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <author>webmaster@pubcrank.com</author>
             <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/children-of-the-dust-may-2026.jpg"/>
             <itunes:explicit>false</itunes:explicit>
 
@@ -194,7 +194,7 @@
             <link>https://media.wildwoodag.xyz/wildwood-podcast/history-and-expansion-of-the-faith-apr-2026.mp3</link>
             <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/history-and-expansion-of-the-faith-apr-2026.mp3</guid>
             <pubDate>Mon, 27 Apr 2026 10:08:05 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <author>webmaster@pubcrank.com</author>
             <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/history-and-expansion-of-the-faith-apr-2026.jpg"/>
             <itunes:explicit>false</itunes:explicit>
 
@@ -209,7 +209,7 @@
             <link>https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-7-apr-2026.mp3</link>
             <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-7-apr-2026.mp3</guid>
             <pubDate>Mon, 27 Apr 2026 10:01:13 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <author>webmaster@pubcrank.com</author>
             <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-7-apr-2026.jpg"/>
             <itunes:explicit>false</itunes:explicit>
 
@@ -224,7 +224,7 @@
             <link>https://media.wildwoodag.xyz/wildwood-podcast/mercy-apr-2026.mp3</link>
             <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/mercy-apr-2026.mp3</guid>
             <pubDate>Mon, 20 Apr 2026 19:29:50 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <author>webmaster@pubcrank.com</author>
             <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/mercy-apr-2026.jpg"/>
             <itunes:explicit>false</itunes:explicit>
 
@@ -239,7 +239,7 @@
             <link>https://media.wildwoodag.xyz/wildwood-podcast/missionaries-wayne-and-drue-huffman.mp3</link>
             <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/missionaries-wayne-and-drue-huffman.mp3</guid>
             <pubDate>Mon, 20 Apr 2026 19:19:45 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <author>webmaster@pubcrank.com</author>
             <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/missionaries-wayne-and-drue-huffman.jpg"/>
             <itunes:explicit>false</itunes:explicit>
 
@@ -254,7 +254,7 @@
             <link>https://media.wildwoodag.xyz/wildwood-podcast/building-altars-to-god-part-4-apr-2026.mp3</link>
             <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/building-altars-to-god-part-4-apr-2026.mp3</guid>
             <pubDate>Sun, 12 Apr 2026 18:56:21 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <author>webmaster@pubcrank.com</author>
             <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/building-altars-to-god-part-4-apr-2026.jpg"/>
             <itunes:explicit>false</itunes:explicit>
 
@@ -269,7 +269,7 @@
             <link>https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-6-apr-2026.mp3</link>
             <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-6-apr-2026.mp3</guid>
             <pubDate>Fri, 10 Apr 2026 20:39:29 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <author>webmaster@pubcrank.com</author>
             <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-6-apr-2026.jpg"/>
             <itunes:explicit>false</itunes:explicit>
 
@@ -284,7 +284,7 @@
             <link>https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-5-apr-2026.mp3</link>
             <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-5-apr-2026.mp3</guid>
             <pubDate>Wed, 01 Apr 2026 21:10:53 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <author>webmaster@pubcrank.com</author>
             <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-5-apr-2026.jpg"/>
             <itunes:explicit>false</itunes:explicit>
 
@@ -299,7 +299,7 @@
             <link>https://media.wildwoodag.xyz/wildwood-podcast/building-altars-to-god-part-3-mar-2026.mp3</link>
             <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/building-altars-to-god-part-3-mar-2026.mp3</guid>
             <pubDate>Mon, 30 Mar 2026 18:19:11 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <author>webmaster@pubcrank.com</author>
             <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/building-altars-to-god-part-3-mar-2026.jpg"/>
             <itunes:explicit>false</itunes:explicit>
 
@@ -314,7 +314,7 @@
             <link>https://media.wildwoodag.xyz/wildwood-podcast/a-mindset-by-faith.mp3</link>
             <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/a-mindset-by-faith.mp3</guid>
             <pubDate>Wed, 25 Mar 2026 22:31:29 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <author>webmaster@pubcrank.com</author>
             <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/a-mindset-by-faith.jpg"/>
             <itunes:explicit>false</itunes:explicit>
 
@@ -329,7 +329,7 @@
             <link>https://media.wildwoodag.xyz/wildwood-podcast/romans-part-13-mar-2026.mp3</link>
             <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/romans-part-13-mar-2026.mp3</guid>
             <pubDate>Sun, 22 Mar 2026 20:19:32 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <author>webmaster@pubcrank.com</author>
             <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/romans-part-13-mar-2026.jpg"/>
             <itunes:explicit>false</itunes:explicit>
 
@@ -344,7 +344,7 @@
             <link>https://media.wildwoodag.xyz/wildwood-podcast/building-altars-to-god-part-2-mar-2026.mp3</link>
             <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/building-altars-to-god-part-2-mar-2026.mp3</guid>
             <pubDate>Sun, 22 Mar 2026 20:22:29 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <author>webmaster@pubcrank.com</author>
             <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/building-altars-to-god-part-2-mar-2026.jpg"/>
             <itunes:explicit>false</itunes:explicit>
 
@@ -359,7 +359,7 @@
             <link>https://media.wildwoodag.xyz/wildwood-podcast/building-altars-to-god.mp3</link>
             <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/building-altars-to-god.mp3</guid>
             <pubDate>Sun, 15 Mar 2026 18:40:13 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <author>webmaster@pubcrank.com</author>
             <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/building-altars-to-god.jpg"/>
             <itunes:explicit>false</itunes:explicit>
 
@@ -374,7 +374,7 @@
             <link>https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-4-mar-2026.mp3</link>
             <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-4-mar-2026.mp3</guid>
             <pubDate>Wed, 11 Mar 2026 21:21:40 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <author>webmaster@pubcrank.com</author>
             <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-4-mar-2026.jpg"/>
             <itunes:explicit>false</itunes:explicit>
 
@@ -389,7 +389,7 @@
             <link>https://media.wildwoodag.xyz/wildwood-podcast/romans-part-12-feb-2026.mp3</link>
             <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/romans-part-12-feb-2026.mp3</guid>
             <pubDate>Sun, 08 Mar 2026 20:23:05 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <author>webmaster@pubcrank.com</author>
             <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/romans-part-12-feb-2026.jpg"/>
             <itunes:explicit>false</itunes:explicit>
 
@@ -404,7 +404,7 @@
             <link>https://media.wildwoodag.xyz/wildwood-podcast/explanations-and-experiences.mp3</link>
             <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/explanations-and-experiences.mp3</guid>
             <pubDate>Sun, 08 Mar 2026 20:31:12 -0400</pubDate>
-            <author>podcast@wildwoodag.church (Wildwood)</author>
+            <author>webmaster@pubcrank.com</author>
             <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/explanations-and-experiences.jpg"/>
             <itunes:explicit>false</itunes:explicit>
 
