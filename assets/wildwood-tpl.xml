@@ -12,7 +12,7 @@
         <managingEditor>webmaster@pubcrank.com</managingEditor>
         <webMaster>webmaster@pubcrank.com</webMaster>
         <image>
-            <url>https://www.wildwoodag.church/icons/android-chrome-3000.png</url>
+            <url>https://www.wildwoodag.church/icons/web-app-manifest-3000.png</url>
             <title>Wildwood Assembly Podcast</title>
             <link>https://www.wildwoodag.church/</link>
         </image>
@@ -35,7 +35,7 @@
             <itunes:email>webmaster@pubcrank.com</itunes:email>
         </itunes:owner>
 
-        <itunes:image href="https://www.wildwoodag.church/icons/android-chrome-3000.png"/>
+        <itunes:image href="https://www.wildwoodag.church/icons/web-app-manifest-3000.png"/>
 
         {% for entry in entries %}
         <item>
