@@ -7,8 +7,8 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-US</language>
         <generator>Podtube CLI</generator>
-        <pubDate>Mon, 08 Jun 2026 08:45:25 +0000</pubDate>
-        <lastBuildDate>Mon, 08 Jun 2026 08:45:25 +0000</lastBuildDate>
+        <pubDate>Fri, 19 Jun 2026 15:02:03 +0000</pubDate>
+        <lastBuildDate>Fri, 19 Jun 2026 15:02:03 +0000</lastBuildDate>
         <managingEditor>webmaster@pubcrank.com</managingEditor>
         <webMaster>webmaster@pubcrank.com</webMaster>
         <image>
@@ -37,6 +37,51 @@
 
         <itunes:image href="https://www.wildwoodag.church/icons/web-app-manifest-3000.png"/>
 
+        
+        <item>
+            <title>New Testament Survey - Part 9 - June 2026</title>
+            <description>Believer&#x27;s University Bible study</description>
+            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/new-testament-survey-part-9-june-2026.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-9-june-2026.mp3</guid>
+            <pubDate>Fri, 19 Jun 2026 14:30:30 +0000</pubDate>
+            <author>webmaster@pubcrank.com</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-9-june-2026.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-9-june-2026.mp3" length="43405012" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
+        
+        <item>
+            <title>The Mystery of the Gospel</title>
+            <description>Sunday sermon by Pastor Kelly</description>
+            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/the-mystery-of-the-gospel.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/the-mystery-of-the-gospel.mp3</guid>
+            <pubDate>Fri, 19 Jun 2026 14:17:42 +0000</pubDate>
+            <author>webmaster@pubcrank.com</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/the-mystery-of-the-gospel.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/the-mystery-of-the-gospel.mp3" length="57565396" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
+        
+        <item>
+            <title>Romans Part 15 - June 2026</title>
+            <description>Bible study on Romans</description>
+            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/romans-part-15-june-2026.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/romans-part-15-june-2026.mp3</guid>
+            <pubDate>Fri, 19 Jun 2026 13:58:55 +0000</pubDate>
+            <author>webmaster@pubcrank.com</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/romans-part-15-june-2026.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/romans-part-15-june-2026.mp3" length="50446804" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
         
         <item>
             <title>The Bible Even Tells Us How to Get Along</title>
@@ -364,51 +409,6 @@
             <itunes:explicit>false</itunes:explicit>
 
             <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/romans-part-13-mar-2026.mp3" length="51570388" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>Building Altars to God - Part 2 - Mar 2026</title>
-            <description>Sermon series</description>
-            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/building-altars-to-god-part-2-mar-2026.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/building-altars-to-god-part-2-mar-2026.mp3</guid>
-            <pubDate>Mon, 23 Mar 2026 00:22:29 +0000</pubDate>
-            <author>webmaster@pubcrank.com</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/building-altars-to-god-part-2-mar-2026.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/building-altars-to-god-part-2-mar-2026.mp3" length="27986644" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>Building Altars to God</title>
-            <description>Sermon on Elijah and building altars to God</description>
-            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/building-altars-to-god.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/building-altars-to-god.mp3</guid>
-            <pubDate>Sun, 15 Mar 2026 22:40:13 +0000</pubDate>
-            <author>webmaster@pubcrank.com</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/building-altars-to-god.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/building-altars-to-god.mp3" length="32642643" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>New Testament Survey - Part 4 - Mar 2026</title>
-            <description>Believer&#x27;s University</description>
-            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/new-testament-survey-part-4-mar-2026.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-4-mar-2026.mp3</guid>
-            <pubDate>Thu, 12 Mar 2026 01:21:40 +0000</pubDate>
-            <author>webmaster@pubcrank.com</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-4-mar-2026.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-4-mar-2026.mp3" length="41186643" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
         </item>
