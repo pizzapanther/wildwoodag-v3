@@ -28,9 +28,7 @@ Author: wp-organic
         <!-- Specific Meta
         ================================================== -->
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-        <meta name="description" content="Blessed - HTML Template Build For Church">
-        <meta name="keywords" content="HTML5, charity HTML, church, churches, donation, ministry, mosque, ngo, non-profit, prayer, religion, religious">
-        <meta name="author" content="wp-organic">
+        {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
         <meta name="MobileOptimized" content="320">
 
         <!-- Titles
