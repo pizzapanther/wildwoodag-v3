@@ -7,8 +7,8 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-US</language>
         <generator>Podtube CLI</generator>
-        <pubDate>Sun, 21 Jun 2026 23:03:11 +0000</pubDate>
-        <lastBuildDate>Sun, 21 Jun 2026 23:03:11 +0000</lastBuildDate>
+        <pubDate>Mon, 29 Jun 2026 03:09:14 +0000</pubDate>
+        <lastBuildDate>Mon, 29 Jun 2026 03:09:14 +0000</lastBuildDate>
         <managingEditor>webmaster@pubcrank.com</managingEditor>
         <webMaster>webmaster@pubcrank.com</webMaster>
         <image>
@@ -37,6 +37,36 @@
 
         <itunes:image href="https://www.wildwoodag.church/icons/web-app-manifest-3000.png"/>
 
+        
+        <item>
+            <title>No Excuse Sunday - June 2026</title>
+            <description>4 speakers, 4 ten minute sermons for No Excuse Sunday</description>
+            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/no-excuse-sunday-june-2026.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/no-excuse-sunday-june-2026.mp3</guid>
+            <pubDate>Mon, 29 Jun 2026 02:42:46 +0000</pubDate>
+            <author>webmaster@pubcrank.com</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/no-excuse-sunday-june-2026.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/no-excuse-sunday-june-2026.mp3" length="38178388" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
+        
+        <item>
+            <title>Lessons in Jonah - Part 1</title>
+            <description>Dr Jack presents part 1 of a Bible study series on Jonah and the lessons we can learn from his story.</description>
+            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/lessons-in-jonah-part-1.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/lessons-in-jonah-part-1.mp3</guid>
+            <pubDate>Mon, 29 Jun 2026 02:35:33 +0000</pubDate>
+            <author>webmaster@pubcrank.com</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/lessons-in-jonah-part-1.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/lessons-in-jonah-part-1.mp3" length="52946644" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
         
         <item>
             <title>3 Fathers</title>
@@ -379,36 +409,6 @@
             <itunes:explicit>false</itunes:explicit>
 
             <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-5-apr-2026.mp3" length="29442388" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>Building Altars to God - Part 3 - Mar 2026</title>
-            <description>Sermon series on Altars to God</description>
-            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/building-altars-to-god-part-3-mar-2026.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/building-altars-to-god-part-3-mar-2026.mp3</guid>
-            <pubDate>Mon, 30 Mar 2026 22:19:11 +0000</pubDate>
-            <author>webmaster@pubcrank.com</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/building-altars-to-god-part-3-mar-2026.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/building-altars-to-god-part-3-mar-2026.mp3" length="31986388" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>A Mindset By Faith</title>
-            <description>Bible study</description>
-            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/a-mindset-by-faith.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/a-mindset-by-faith.mp3</guid>
-            <pubDate>Thu, 26 Mar 2026 02:31:29 +0000</pubDate>
-            <author>webmaster@pubcrank.com</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/a-mindset-by-faith.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/a-mindset-by-faith.mp3" length="47730388" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
         </item>
