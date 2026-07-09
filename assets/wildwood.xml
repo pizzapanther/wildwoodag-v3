@@ -7,8 +7,8 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-US</language>
         <generator>Podtube CLI</generator>
-        <pubDate>Wed, 08 Jul 2026 23:09:12 +0000</pubDate>
-        <lastBuildDate>Wed, 08 Jul 2026 23:09:12 +0000</lastBuildDate>
+        <pubDate>Thu, 09 Jul 2026 10:47:28 +0000</pubDate>
+        <lastBuildDate>Thu, 09 Jul 2026 10:47:28 +0000</lastBuildDate>
         <managingEditor>webmaster@pubcrank.com</managingEditor>
         <webMaster>webmaster@pubcrank.com</webMaster>
         <image>
@@ -37,6 +37,21 @@
 
         <itunes:image href="https://www.wildwoodag.church/icons/web-app-manifest-3000.png"/>
 
+        
+        <item>
+            <title>New Testament Survey - Part 10 - July 2026</title>
+            <description>Pastor Mark continues the New Testament Survey Believer&#x27;s University course. Tonight&#x27;s topics include passages from Acts, Philippians, and Colossians.</description>
+            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/new-testament-survey-part-10-july-2026.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-10-july-2026.mp3</guid>
+            <pubDate>Thu, 09 Jul 2026 02:20:39 +0000</pubDate>
+            <author>webmaster@pubcrank.com</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-10-july-2026.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-10-july-2026.mp3" length="41122516" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
         
         <item>
             <title>Names of God - Part 1</title>
@@ -394,21 +409,6 @@
             <itunes:explicit>false</itunes:explicit>
 
             <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/missionaries-wayne-and-drue-huffman.mp3" length="35058388" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>Building Altars to God - Part 4 - Apr 2026</title>
-            <description>Series Building Altars to God</description>
-            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/building-altars-to-god-part-4-apr-2026.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/building-altars-to-god-part-4-apr-2026.mp3</guid>
-            <pubDate>Sun, 12 Apr 2026 22:56:21 +0000</pubDate>
-            <author>webmaster@pubcrank.com</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/building-altars-to-god-part-4-apr-2026.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/building-altars-to-god-part-4-apr-2026.mp3" length="41202388" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
         </item>
