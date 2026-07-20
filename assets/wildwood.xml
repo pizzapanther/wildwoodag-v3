@@ -7,8 +7,8 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-US</language>
         <generator>Podtube CLI</generator>
-        <pubDate>Thu, 09 Jul 2026 10:47:28 +0000</pubDate>
-        <lastBuildDate>Thu, 09 Jul 2026 10:47:28 +0000</lastBuildDate>
+        <pubDate>Sun, 19 Jul 2026 23:59:29 +0000</pubDate>
+        <lastBuildDate>Sun, 19 Jul 2026 23:59:29 +0000</lastBuildDate>
         <managingEditor>webmaster@pubcrank.com</managingEditor>
         <webMaster>webmaster@pubcrank.com</webMaster>
         <image>
@@ -37,6 +37,51 @@
 
         <itunes:image href="https://www.wildwoodag.church/icons/web-app-manifest-3000.png"/>
 
+        
+        <item>
+            <title>Salt and Light - July 2026</title>
+            <description>Pastor Mark preaches about living as Salt and Light for Jesus.</description>
+            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/salt-and-light-july-2026.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/salt-and-light-july-2026.mp3</guid>
+            <pubDate>Sun, 19 Jul 2026 23:41:36 +0000</pubDate>
+            <author>webmaster@pubcrank.com</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/salt-and-light-july-2026.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/salt-and-light-july-2026.mp3" length="32850388" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
+        
+        <item>
+            <title>Let Me Interrupt You</title>
+            <description>Pastor Kelly preaches about what Jesus did when he was interrupted.</description>
+            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/let-me-interrupt-you.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/let-me-interrupt-you.mp3</guid>
+            <pubDate>Sun, 19 Jul 2026 23:33:14 +0000</pubDate>
+            <author>webmaster@pubcrank.com</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/let-me-interrupt-you.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/let-me-interrupt-you.mp3" length="45874516" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
+        
+        <item>
+            <title>Live with Eternity in Mind - Part 2</title>
+            <description>Episode number 4, Part 2 of Live with Eternity in Mind. Dr Jack continues with the topics of what to do when your plans go off track, fighting your inner negative voice, and more.</description>
+            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/live-with-eternity-in-mind-part-2.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/live-with-eternity-in-mind-part-2.mp3</guid>
+            <pubDate>Sat, 11 Jul 2026 18:04:46 +0000</pubDate>
+            <author>webmaster@pubcrank.com</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/live-with-eternity-in-mind-part-2.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/live-with-eternity-in-mind-part-2.mp3" length="74183380" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
         
         <item>
             <title>New Testament Survey - Part 10 - July 2026</title>
@@ -364,51 +409,6 @@
             <itunes:explicit>false</itunes:explicit>
 
             <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/history-and-expansion-of-the-faith-apr-2026.mp3" length="50754772" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>New Testament Survey - Part 7 - Apr 2026</title>
-            <description>Believer&#x27;s University</description>
-            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/new-testament-survey-part-7-apr-2026.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-7-apr-2026.mp3</guid>
-            <pubDate>Mon, 27 Apr 2026 14:01:13 +0000</pubDate>
-            <author>webmaster@pubcrank.com</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-7-apr-2026.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-7-apr-2026.mp3" length="32642644" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>Mercy - Apr 2026</title>
-            <description>Sermon on mercy</description>
-            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/mercy-apr-2026.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/mercy-apr-2026.mp3</guid>
-            <pubDate>Mon, 20 Apr 2026 23:29:50 +0000</pubDate>
-            <author>webmaster@pubcrank.com</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/mercy-apr-2026.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/mercy-apr-2026.mp3" length="29378260" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>Missionaries: Wayne and Drue Huffman</title>
-            <description>missions night</description>
-            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/missionaries-wayne-and-drue-huffman.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/missionaries-wayne-and-drue-huffman.mp3</guid>
-            <pubDate>Mon, 20 Apr 2026 23:19:45 +0000</pubDate>
-            <author>webmaster@pubcrank.com</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/missionaries-wayne-and-drue-huffman.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/missionaries-wayne-and-drue-huffman.mp3" length="35058388" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
         </item>
