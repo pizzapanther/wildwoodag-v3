@@ -7,8 +7,8 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-US</language>
         <generator>Podtube CLI</generator>
-        <pubDate>Sun, 19 Jul 2026 23:59:29 +0000</pubDate>
-        <lastBuildDate>Sun, 19 Jul 2026 23:59:29 +0000</lastBuildDate>
+        <pubDate>Thu, 30 Jul 2026 12:19:34 +0000</pubDate>
+        <lastBuildDate>Thu, 30 Jul 2026 12:19:34 +0000</lastBuildDate>
         <managingEditor>webmaster@pubcrank.com</managingEditor>
         <webMaster>webmaster@pubcrank.com</webMaster>
         <image>
@@ -37,6 +37,51 @@
 
         <itunes:image href="https://www.wildwoodag.church/icons/web-app-manifest-3000.png"/>
 
+        
+        <item>
+            <title>God is Already There</title>
+            <description></description>
+            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/god-is-already-there.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/god-is-already-there.mp3</guid>
+            <pubDate>Thu, 30 Jul 2026 01:37:02 +0000</pubDate>
+            <author>webmaster@pubcrank.com</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/god-is-already-there.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/god-is-already-there.mp3" length="45650693" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
+        
+        <item>
+            <title>Names of God - Part 2</title>
+            <description>Pastor Kelly continues a Bible study series on the names of God.</description>
+            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/names-of-god-part-2.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/names-of-god-part-2.mp3</guid>
+            <pubDate>Wed, 29 Jul 2026 23:40:47 +0000</pubDate>
+            <author>webmaster@pubcrank.com</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/names-of-god-part-2.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/names-of-god-part-2.mp3" length="48018388" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
+        
+        <item>
+            <title>He Guides Our Steps and Stops - July 2026</title>
+            <description></description>
+            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/he-guides-our-steps-and-stops-july-2026.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/he-guides-our-steps-and-stops-july-2026.mp3</guid>
+            <pubDate>Wed, 29 Jul 2026 23:47:58 +0000</pubDate>
+            <author>webmaster@pubcrank.com</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/he-guides-our-steps-and-stops-july-2026.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/he-guides-our-steps-and-stops-july-2026.mp3" length="29822932" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
         
         <item>
             <title>Salt and Light - July 2026</title>
@@ -364,51 +409,6 @@
             <itunes:explicit>false</itunes:explicit>
 
             <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/the-road-not-taken-may-2026.mp3" length="35698132" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>Culture Wars</title>
-            <description>Bible study</description>
-            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/culture-wars.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/culture-wars.mp3</guid>
-            <pubDate>Mon, 04 May 2026 23:49:20 +0000</pubDate>
-            <author>webmaster@pubcrank.com</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/culture-wars.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/culture-wars.mp3" length="52126420" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>Children of the Dust - May 2026</title>
-            <description>sermon for Sunday May 3rd</description>
-            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/children-of-the-dust-may-2026.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/children-of-the-dust-may-2026.mp3</guid>
-            <pubDate>Sun, 03 May 2026 23:34:16 +0000</pubDate>
-            <author>webmaster@pubcrank.com</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/children-of-the-dust-may-2026.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/children-of-the-dust-may-2026.mp3" length="32674516" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>History and Expansion of the Faith - Apr 2026</title>
-            <description>Sunday Sermon</description>
-            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/history-and-expansion-of-the-faith-apr-2026.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/history-and-expansion-of-the-faith-apr-2026.mp3</guid>
-            <pubDate>Mon, 27 Apr 2026 14:08:05 +0000</pubDate>
-            <author>webmaster@pubcrank.com</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/history-and-expansion-of-the-faith-apr-2026.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/history-and-expansion-of-the-faith-apr-2026.mp3" length="50754772" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
         </item>
