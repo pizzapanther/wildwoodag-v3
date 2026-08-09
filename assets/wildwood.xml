@@ -7,12 +7,12 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-US</language>
         <generator>Podtube CLI</generator>
-        <pubDate>Sat, 08 Aug 2026 20:37:50 +0000</pubDate>
-        <lastBuildDate>Sat, 08 Aug 2026 20:37:50 +0000</lastBuildDate>
+        <pubDate>Sun, 09 Aug 2026 12:06:44 +0000</pubDate>
+        <lastBuildDate>Sun, 09 Aug 2026 12:06:44 +0000</lastBuildDate>
         <managingEditor>webmaster@pubcrank.com</managingEditor>
         <webMaster>webmaster@pubcrank.com</webMaster>
         <image>
-            <url>https://www.wildwoodag.church/icons/web-app-manifest-3000.png</url>
+            <url>https://www.wildwoodag.church/icons/web-app-manifest-pod.png</url>
             <title>Wildwood Assembly Podcast</title>
             <link>https://www.wildwoodag.church/</link>
         </image>
@@ -35,7 +35,7 @@
             <itunes:email>webmaster@pubcrank.com</itunes:email>
         </itunes:owner>
 
-        <itunes:image href="https://www.wildwoodag.church/icons/web-app-manifest-3000.png"/>
+        <itunes:image href="https://www.wildwoodag.church/icons/web-app-manifest-pod.png"/>
 
         
         <item>
