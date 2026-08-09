@@ -7,8 +7,8 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-US</language>
         <generator>Podtube CLI</generator>
-        <pubDate>Thu, 30 Jul 2026 12:19:34 +0000</pubDate>
-        <lastBuildDate>Thu, 30 Jul 2026 12:19:34 +0000</lastBuildDate>
+        <pubDate>Sat, 08 Aug 2026 20:37:50 +0000</pubDate>
+        <lastBuildDate>Sat, 08 Aug 2026 20:37:50 +0000</lastBuildDate>
         <managingEditor>webmaster@pubcrank.com</managingEditor>
         <webMaster>webmaster@pubcrank.com</webMaster>
         <image>
@@ -37,6 +37,36 @@
 
         <itunes:image href="https://www.wildwoodag.church/icons/web-app-manifest-3000.png"/>
 
+        
+        <item>
+            <title>Courage, Anointing, and Partnership</title>
+            <description>Special speaker Billy Thomas teaches about Ezra and what we need to do things successfully for God.</description>
+            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/courage-anointing-and-partnership.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/courage-anointing-and-partnership.mp3</guid>
+            <pubDate>Sat, 08 Aug 2026 20:04:38 +0000</pubDate>
+            <author>webmaster@pubcrank.com</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/courage-anointing-and-partnership.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/courage-anointing-and-partnership.mp3" length="45154515" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
+        
+        <item>
+            <title>New Testament Survey - Part 11 - Aug 2026</title>
+            <description>Pastor Mark continues the New Testament Survey Believer&#x27;s University course. Tonight&#x27;s topics include passages from Philemon.</description>
+            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/new-testament-survey-part-11-aug-2026.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-11-aug-2026.mp3</guid>
+            <pubDate>Sat, 08 Aug 2026 20:10:23 +0000</pubDate>
+            <author>webmaster@pubcrank.com</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-11-aug-2026.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-11-aug-2026.mp3" length="35937363" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
         
         <item>
             <title>God is Already There</title>
@@ -379,36 +409,6 @@
             <itunes:explicit>false</itunes:explicit>
 
             <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/romans-part-13-may-2026.mp3" length="37490644" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>Mother&#x27;s Day - May 2026</title>
-            <description>Sermon for Mother&#x27;s Day</description>
-            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/mother-s-day-may-2026.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/mother-s-day-may-2026.mp3</guid>
-            <pubDate>Mon, 11 May 2026 16:27:57 +0000</pubDate>
-            <author>webmaster@pubcrank.com</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/mother-s-day-may-2026.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/mother-s-day-may-2026.mp3" length="55874644" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>The Road Not Taken - May 2026</title>
-            <description>Bible study</description>
-            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/the-road-not-taken-may-2026.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/the-road-not-taken-may-2026.mp3</guid>
-            <pubDate>Thu, 07 May 2026 01:35:05 +0000</pubDate>
-            <author>webmaster@pubcrank.com</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/the-road-not-taken-may-2026.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/the-road-not-taken-may-2026.mp3" length="35698132" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
         </item>
