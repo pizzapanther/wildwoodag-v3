@@ -7,8 +7,8 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-US</language>
         <generator>Podtube CLI</generator>
-        <pubDate>Fri, 14 Aug 2026 23:19:43 +0000</pubDate>
-        <lastBuildDate>Fri, 14 Aug 2026 23:19:43 +0000</lastBuildDate>
+        <pubDate>Sat, 22 Aug 2026 16:41:31 +0000</pubDate>
+        <lastBuildDate>Sat, 22 Aug 2026 16:41:31 +0000</lastBuildDate>
         <managingEditor>webmaster@pubcrank.com</managingEditor>
         <webMaster>webmaster@pubcrank.com</webMaster>
         <image>
@@ -37,6 +37,36 @@
 
         <itunes:image href="https://www.wildwoodag.church/icons/web-app-manifest-pod.png"/>
 
+        
+        <item>
+            <title>The One Who Returned</title>
+            <description>Gratitude that makes you whole. Dr Jack teaches about the one who returned to give his gratitude to Jesus.</description>
+            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/the-one-who-returned.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/the-one-who-returned.mp3</guid>
+            <pubDate>Sat, 22 Aug 2026 16:28:21 +0000</pubDate>
+            <author>webmaster@pubcrank.com</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/the-one-who-returned.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/the-one-who-returned.mp3" length="56114719" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
+        
+        <item>
+            <title>One of Those Days - August 2026</title>
+            <description>Pastor Mark preaches about the days God brings in your life.</description>
+            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/one-of-those-days-august-2026.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/one-of-those-days-august-2026.mp3</guid>
+            <pubDate>Thu, 20 Aug 2026 00:43:53 +0000</pubDate>
+            <author>webmaster@pubcrank.com</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/one-of-those-days-august-2026.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/one-of-those-days-august-2026.mp3" length="37218387" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
         
         <item>
             <title>The Message With No Title - Aug 2026</title>
@@ -379,36 +409,6 @@
             <itunes:explicit>false</itunes:explicit>
 
             <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/that-which-is-above-may-2026.mp3" length="45122260" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>Faith vs Fear - May 2026</title>
-            <description>Sermon</description>
-            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/faith-vs-fear-may-2026.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/faith-vs-fear-may-2026.mp3</guid>
-            <pubDate>Wed, 27 May 2026 02:42:19 +0000</pubDate>
-            <author>webmaster@pubcrank.com</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/faith-vs-fear-may-2026.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/faith-vs-fear-may-2026.mp3" length="33234004" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>New Testament Survey - Part 8 - May 2026</title>
-            <description>Believer&#x27;s University Bible study</description>
-            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/new-testament-survey-part-8-may-2026.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-8-may-2026.mp3</guid>
-            <pubDate>Thu, 21 May 2026 11:30:57 +0000</pubDate>
-            <author>webmaster@pubcrank.com</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-8-may-2026.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-8-may-2026.mp3" length="43906516" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
         </item>
