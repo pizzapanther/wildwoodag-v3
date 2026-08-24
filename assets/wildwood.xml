@@ -7,8 +7,8 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-US</language>
         <generator>Podtube CLI</generator>
-        <pubDate>Sat, 22 Aug 2026 16:41:31 +0000</pubDate>
-        <lastBuildDate>Sat, 22 Aug 2026 16:41:31 +0000</lastBuildDate>
+        <pubDate>Mon, 24 Aug 2026 02:30:29 +0000</pubDate>
+        <lastBuildDate>Mon, 24 Aug 2026 02:30:29 +0000</lastBuildDate>
         <managingEditor>webmaster@pubcrank.com</managingEditor>
         <webMaster>webmaster@pubcrank.com</webMaster>
         <image>
@@ -37,6 +37,21 @@
 
         <itunes:image href="https://www.wildwoodag.church/icons/web-app-manifest-pod.png"/>
 
+        
+        <item>
+            <title>Great Faith</title>
+            <description>Walk by faith, not by sight. 2 Cor. 5:7.</description>
+            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/great-faith.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/great-faith.mp3</guid>
+            <pubDate>Mon, 24 Aug 2026 00:12:07 +0000</pubDate>
+            <author>webmaster@pubcrank.com</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/great-faith.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/great-faith.mp3" length="33154515" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
         
         <item>
             <title>The One Who Returned</title>
@@ -394,21 +409,6 @@
             <itunes:explicit>false</itunes:explicit>
 
             <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/impulse-to-hide-from-god-may-2026.mp3" length="33730516" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>That Which is Above - May 2026</title>
-            <description>Bible study on looking up to God</description>
-            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/that-which-is-above-may-2026.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/that-which-is-above-may-2026.mp3</guid>
-            <pubDate>Thu, 28 May 2026 23:11:04 +0000</pubDate>
-            <author>webmaster@pubcrank.com</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/that-which-is-above-may-2026.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/that-which-is-above-may-2026.mp3" length="45122260" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
         </item>
