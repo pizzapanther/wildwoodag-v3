@@ -7,8 +7,8 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-US</language>
         <generator>Podtube CLI</generator>
-        <pubDate>Mon, 24 Aug 2026 02:30:29 +0000</pubDate>
-        <lastBuildDate>Mon, 24 Aug 2026 02:30:29 +0000</lastBuildDate>
+        <pubDate>Wed, 02 Sep 2026 14:55:10 +0000</pubDate>
+        <lastBuildDate>Wed, 02 Sep 2026 14:55:10 +0000</lastBuildDate>
         <managingEditor>webmaster@pubcrank.com</managingEditor>
         <webMaster>webmaster@pubcrank.com</webMaster>
         <image>
@@ -37,6 +37,21 @@
 
         <itunes:image href="https://www.wildwoodag.church/icons/web-app-manifest-pod.png"/>
 
+        
+        <item>
+            <title>Ezra Opened The Book</title>
+            <description>Pastor Mark preaches from the book of Nehemiah</description>
+            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/ezra-opened-the-book.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/ezra-opened-the-book.mp3</guid>
+            <pubDate>Wed, 02 Sep 2026 14:36:55 +0000</pubDate>
+            <author>webmaster@pubcrank.com</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/ezra-opened-the-book.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/ezra-opened-the-book.mp3" length="30098259" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
         
         <item>
             <title>Great Faith</title>
@@ -394,21 +409,6 @@
             <itunes:explicit>false</itunes:explicit>
 
             <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/romans-part-14-june-2026.mp3" length="49058644" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>Impulse to Hide from God - May 2026</title>
-            <description>Sermon for graduates</description>
-            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/impulse-to-hide-from-god-may-2026.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/impulse-to-hide-from-god-may-2026.mp3</guid>
-            <pubDate>Mon, 01 Jun 2026 00:11:14 +0000</pubDate>
-            <author>webmaster@pubcrank.com</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/impulse-to-hide-from-god-may-2026.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/impulse-to-hide-from-god-may-2026.mp3" length="33730516" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
         </item>
