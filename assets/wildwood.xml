@@ -7,8 +7,8 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-US</language>
         <generator>Podtube CLI</generator>
-        <pubDate>Thu, 03 Sep 2026 15:30:59 +0000</pubDate>
-        <lastBuildDate>Thu, 03 Sep 2026 15:30:59 +0000</lastBuildDate>
+        <pubDate>Thu, 10 Sep 2026 14:01:52 +0000</pubDate>
+        <lastBuildDate>Thu, 10 Sep 2026 14:01:52 +0000</lastBuildDate>
         <managingEditor>webmaster@pubcrank.com</managingEditor>
         <webMaster>webmaster@pubcrank.com</webMaster>
         <image>
@@ -37,6 +37,36 @@
 
         <itunes:image href="https://www.wildwoodag.church/icons/web-app-manifest-pod.png"/>
 
+        
+        <item>
+            <title>Names of God, Part 4 - Aug 2026</title>
+            <description>Pastor Kelly continues the Bible study series on the names of God</description>
+            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/names-of-god-part-4-aug-2026.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/names-of-god-part-4-aug-2026.mp3</guid>
+            <pubDate>Thu, 10 Sep 2026 01:54:17 +0000</pubDate>
+            <author>webmaster@pubcrank.com</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/names-of-god-part-4-aug-2026.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/names-of-god-part-4-aug-2026.mp3" length="48034515" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
+        
+        <item>
+            <title>And Then - Sept 2026</title>
+            <description>Pastor Kelly preaches on the book of Joshua.</description>
+            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/and-then-sept-2026.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/and-then-sept-2026.mp3</guid>
+            <pubDate>Thu, 10 Sep 2026 00:18:35 +0000</pubDate>
+            <author>webmaster@pubcrank.com</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/and-then-sept-2026.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/and-then-sept-2026.mp3" length="37266771" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
         
         <item>
             <title>New Testament Survey - Part 12 - Sep 2026</title>
@@ -379,36 +409,6 @@
             <itunes:explicit>false</itunes:explicit>
 
             <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/the-mystery-of-the-gospel.mp3" length="57565396" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>Romans Part 15 - June 2026</title>
-            <description>Bible study on Romans</description>
-            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/romans-part-15-june-2026.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/romans-part-15-june-2026.mp3</guid>
-            <pubDate>Fri, 19 Jun 2026 13:58:55 +0000</pubDate>
-            <author>webmaster@pubcrank.com</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/romans-part-15-june-2026.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/romans-part-15-june-2026.mp3" length="50446804" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>The Bible Even Tells Us How to Get Along</title>
-            <description>Sunday sermon</description>
-            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/the-bible-even-tells-us-how-to-get-along.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/the-bible-even-tells-us-how-to-get-along.mp3</guid>
-            <pubDate>Mon, 08 Jun 2026 04:57:29 +0000</pubDate>
-            <author>webmaster@pubcrank.com</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/the-bible-even-tells-us-how-to-get-along.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/the-bible-even-tells-us-how-to-get-along.mp3" length="51838420" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
         </item>
