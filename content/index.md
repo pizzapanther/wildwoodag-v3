@@ -25,7 +25,7 @@
 </template>
 <script>
   var home_cal = load_calendar('list', true);
-  const MONTHS = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+  const MONTHS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sept', 'Oct', 'Nov', 'Dec'];
 
   function insert_event(e) {
     // console.log(e);
