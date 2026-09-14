@@ -7,8 +7,8 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-US</language>
         <generator>Podtube CLI</generator>
-        <pubDate>Thu, 10 Sep 2026 14:01:52 +0000</pubDate>
-        <lastBuildDate>Thu, 10 Sep 2026 14:01:52 +0000</lastBuildDate>
+        <pubDate>Mon, 14 Sep 2026 00:12:57 +0000</pubDate>
+        <lastBuildDate>Mon, 14 Sep 2026 00:12:57 +0000</lastBuildDate>
         <managingEditor>webmaster@pubcrank.com</managingEditor>
         <webMaster>webmaster@pubcrank.com</webMaster>
         <image>
@@ -37,6 +37,21 @@
 
         <itunes:image href="https://www.wildwoodag.church/icons/web-app-manifest-pod.png"/>
 
+        
+        <item>
+            <title>The Power Behind Public Prayer</title>
+            <description>Pastor Mark preaches about prayer and its power to the believer&#x27;s in Jesus.</description>
+            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/the-power-behind-public-prayer.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/the-power-behind-public-prayer.mp3</guid>
+            <pubDate>Sun, 13 Sep 2026 23:27:20 +0000</pubDate>
+            <author>webmaster@pubcrank.com</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/the-power-behind-public-prayer.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/the-power-behind-public-prayer.mp3" length="40162515" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
         
         <item>
             <title>Names of God, Part 4 - Aug 2026</title>
@@ -394,21 +409,6 @@
             <itunes:explicit>false</itunes:explicit>
 
             <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-9-june-2026.mp3" length="43405012" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>The Mystery of the Gospel</title>
-            <description>Sunday sermon by Pastor Kelly</description>
-            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/the-mystery-of-the-gospel.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/the-mystery-of-the-gospel.mp3</guid>
-            <pubDate>Fri, 19 Jun 2026 14:17:42 +0000</pubDate>
-            <author>webmaster@pubcrank.com</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/the-mystery-of-the-gospel.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/the-mystery-of-the-gospel.mp3" length="57565396" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
         </item>
