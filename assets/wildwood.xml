@@ -7,8 +7,8 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-US</language>
         <generator>Podtube CLI</generator>
-        <pubDate>Mon, 14 Sep 2026 00:12:57 +0000</pubDate>
-        <lastBuildDate>Mon, 14 Sep 2026 00:12:57 +0000</lastBuildDate>
+        <pubDate>Mon, 21 Sep 2026 00:16:26 +0000</pubDate>
+        <lastBuildDate>Mon, 21 Sep 2026 00:16:26 +0000</lastBuildDate>
         <managingEditor>webmaster@pubcrank.com</managingEditor>
         <webMaster>webmaster@pubcrank.com</webMaster>
         <image>
@@ -37,6 +37,36 @@
 
         <itunes:image href="https://www.wildwoodag.church/icons/web-app-manifest-pod.png"/>
 
+        
+        <item>
+            <title>How Great is Our God - Sep 2026</title>
+            <description>Pastor Mark preaches from Job</description>
+            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/how-great-is-our-god-sep-2026.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/how-great-is-our-god-sep-2026.mp3</guid>
+            <pubDate>Sun, 20 Sep 2026 23:59:46 +0000</pubDate>
+            <author>webmaster@pubcrank.com</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/how-great-is-our-god-sep-2026.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/how-great-is-our-god-sep-2026.mp3" length="27410259" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
+        
+        <item>
+            <title>New Testament Survey - Part 13 - Sep 2026</title>
+            <description>Pastor Mark continues the Believer&#x27;s University class.</description>
+            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/new-testament-survey-part-13-sep-2026.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-13-sep-2026.mp3</guid>
+            <pubDate>Sun, 20 Sep 2026 23:55:08 +0000</pubDate>
+            <author>webmaster@pubcrank.com</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-13-sep-2026.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-13-sep-2026.mp3" length="50866899" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
         
         <item>
             <title>The Power Behind Public Prayer</title>
@@ -379,36 +409,6 @@
             <itunes:explicit>false</itunes:explicit>
 
             <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/lessons-in-jonah-part-1.mp3" length="52946644" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>3 Fathers</title>
-            <description>Sermon for Father&#x27;s Day 2026</description>
-            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/3-fathers.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/3-fathers.mp3</guid>
-            <pubDate>Sun, 21 Jun 2026 22:44:24 +0000</pubDate>
-            <author>webmaster@pubcrank.com</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/3-fathers.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/3-fathers.mp3" length="42578644" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>New Testament Survey - Part 9 - June 2026</title>
-            <description>Believer&#x27;s University Bible study</description>
-            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/new-testament-survey-part-9-june-2026.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-9-june-2026.mp3</guid>
-            <pubDate>Fri, 19 Jun 2026 14:30:30 +0000</pubDate>
-            <author>webmaster@pubcrank.com</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-9-june-2026.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-9-june-2026.mp3" length="43405012" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
         </item>
