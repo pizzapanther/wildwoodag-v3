@@ -7,8 +7,8 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-US</language>
         <generator>Podtube CLI</generator>
-        <pubDate>Mon, 21 Sep 2026 00:16:26 +0000</pubDate>
-        <lastBuildDate>Mon, 21 Sep 2026 00:16:26 +0000</lastBuildDate>
+        <pubDate>Thu, 24 Sep 2026 10:00:07 +0000</pubDate>
+        <lastBuildDate>Thu, 24 Sep 2026 10:00:07 +0000</lastBuildDate>
         <managingEditor>webmaster@pubcrank.com</managingEditor>
         <webMaster>webmaster@pubcrank.com</webMaster>
         <image>
@@ -37,6 +37,21 @@
 
         <itunes:image href="https://www.wildwoodag.church/icons/web-app-manifest-pod.png"/>
 
+        
+        <item>
+            <title>Names of God, Part 5 - Sep 2026</title>
+            <description>Pastor Kelly continues her Bible study on the names of God</description>
+            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/names-of-god-part-5-sep-2026.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/names-of-god-part-5-sep-2026.mp3</guid>
+            <pubDate>Thu, 24 Sep 2026 01:59:09 +0000</pubDate>
+            <author>webmaster@pubcrank.com</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/names-of-god-part-5-sep-2026.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/names-of-god-part-5-sep-2026.mp3" length="55155027" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
         
         <item>
             <title>How Great is Our God - Sep 2026</title>
@@ -394,21 +409,6 @@
             <itunes:explicit>false</itunes:explicit>
 
             <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/no-excuse-sunday-june-2026.mp3" length="38178388" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>Lessons in Jonah - Part 1</title>
-            <description>Dr Jack presents part 1 of a Bible study series on Jonah and the lessons we can learn from his story.</description>
-            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/lessons-in-jonah-part-1.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/lessons-in-jonah-part-1.mp3</guid>
-            <pubDate>Mon, 29 Jun 2026 02:35:33 +0000</pubDate>
-            <author>webmaster@pubcrank.com</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/lessons-in-jonah-part-1.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/lessons-in-jonah-part-1.mp3" length="52946644" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
         </item>
