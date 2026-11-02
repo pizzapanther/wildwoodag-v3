@@ -7,8 +7,8 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-US</language>
         <generator>Podtube CLI</generator>
-        <pubDate>Thu, 22 Oct 2026 15:10:30 +0000</pubDate>
-        <lastBuildDate>Thu, 22 Oct 2026 15:10:30 +0000</lastBuildDate>
+        <pubDate>Mon, 02 Nov 2026 23:28:43 +0000</pubDate>
+        <lastBuildDate>Mon, 02 Nov 2026 23:28:43 +0000</lastBuildDate>
         <managingEditor>webmaster@pubcrank.com</managingEditor>
         <webMaster>webmaster@pubcrank.com</webMaster>
         <image>
@@ -37,6 +37,36 @@
 
         <itunes:image href="https://www.wildwoodag.church/icons/web-app-manifest-pod.png"/>
 
+        
+        <item>
+            <title>God has you. But does he have all of you? - Part 2</title>
+            <description>Pastor Kelly continues her sermon series.</description>
+            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/god-has-you-but-does-he-have-all-of-you-part-2.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/god-has-you-but-does-he-have-all-of-you-part-2.mp3</guid>
+            <pubDate>Mon, 02 Nov 2026 23:01:46 +0000</pubDate>
+            <author>webmaster@pubcrank.com</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/god-has-you-but-does-he-have-all-of-you-part-2.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/god-has-you-but-does-he-have-all-of-you-part-2.mp3" length="43234899" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
+        
+        <item>
+            <title>God has you. But does he have all of you?</title>
+            <description>Sermon series by Pastor Kelly. Part 1.</description>
+            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/god-has-you-but-does-he-have-all-of-you.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/god-has-you-but-does-he-have-all-of-you.mp3</guid>
+            <pubDate>Sun, 25 Oct 2026 23:38:28 +0000</pubDate>
+            <author>webmaster@pubcrank.com</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/god-has-you-but-does-he-have-all-of-you.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/god-has-you-but-does-he-have-all-of-you.mp3" length="50547027" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
         
         <item>
             <title>New Testament Survey - Part 14 - Oct 2026</title>
@@ -379,36 +409,6 @@
             <itunes:explicit>false</itunes:explicit>
 
             <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-11-aug-2026.mp3" length="35937363" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>God is Already There</title>
-            <description></description>
-            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/god-is-already-there.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/god-is-already-there.mp3</guid>
-            <pubDate>Thu, 30 Jul 2026 01:37:02 +0000</pubDate>
-            <author>webmaster@pubcrank.com</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/god-is-already-there.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/god-is-already-there.mp3" length="45650693" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>Names of God - Part 2</title>
-            <description>Pastor Kelly continues a Bible study series on the names of God.</description>
-            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/names-of-god-part-2.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/names-of-god-part-2.mp3</guid>
-            <pubDate>Wed, 29 Jul 2026 23:40:47 +0000</pubDate>
-            <author>webmaster@pubcrank.com</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/names-of-god-part-2.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/names-of-god-part-2.mp3" length="48018388" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
         </item>
