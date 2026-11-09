@@ -7,8 +7,8 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-US</language>
         <generator>Podtube CLI</generator>
-        <pubDate>Mon, 02 Nov 2026 23:28:43 +0000</pubDate>
-        <lastBuildDate>Mon, 02 Nov 2026 23:28:43 +0000</lastBuildDate>
+        <pubDate>Mon, 09 Nov 2026 12:56:17 +0000</pubDate>
+        <lastBuildDate>Mon, 09 Nov 2026 12:56:17 +0000</lastBuildDate>
         <managingEditor>webmaster@pubcrank.com</managingEditor>
         <webMaster>webmaster@pubcrank.com</webMaster>
         <image>
@@ -37,6 +37,36 @@
 
         <itunes:image href="https://www.wildwoodag.church/icons/web-app-manifest-pod.png"/>
 
+        
+        <item>
+            <title>Life in the Spirit</title>
+            <description></description>
+            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/life-in-the-spirit.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/life-in-the-spirit.mp3</guid>
+            <pubDate>Sun, 08 Nov 2026 23:25:17 +0000</pubDate>
+            <author>webmaster@pubcrank.com</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/life-in-the-spirit.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/life-in-the-spirit.mp3" length="30930387" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
+        
+        <item>
+            <title>New Testament Survey - Part 15 - Nov 2026</title>
+            <description></description>
+            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/new-testament-survey-part-15-nov-2026.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-15-nov-2026.mp3</guid>
+            <pubDate>Sun, 08 Nov 2026 23:19:29 +0000</pubDate>
+            <author>webmaster@pubcrank.com</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-15-nov-2026.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-15-nov-2026.mp3" length="36770259" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
         
         <item>
             <title>God has you. But does he have all of you? - Part 2</title>
@@ -379,36 +409,6 @@
             <itunes:explicit>false</itunes:explicit>
 
             <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/names-of-god-part-3-aug-2026.mp3" length="40417491" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>Courage, Anointing, and Partnership</title>
-            <description>Special speaker Billy Thomas teaches about Ezra and what we need to do things successfully for God.</description>
-            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/courage-anointing-and-partnership.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/courage-anointing-and-partnership.mp3</guid>
-            <pubDate>Sat, 08 Aug 2026 20:04:38 +0000</pubDate>
-            <author>webmaster@pubcrank.com</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/courage-anointing-and-partnership.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/courage-anointing-and-partnership.mp3" length="45154515" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>New Testament Survey - Part 11 - Aug 2026</title>
-            <description>Pastor Mark continues the New Testament Survey Believer&#x27;s University course. Tonight&#x27;s topics include passages from Philemon.</description>
-            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/new-testament-survey-part-11-aug-2026.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-11-aug-2026.mp3</guid>
-            <pubDate>Sat, 08 Aug 2026 20:10:23 +0000</pubDate>
-            <author>webmaster@pubcrank.com</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-11-aug-2026.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-11-aug-2026.mp3" length="35937363" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
         </item>
