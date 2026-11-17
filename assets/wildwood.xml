@@ -7,8 +7,8 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-US</language>
         <generator>Podtube CLI</generator>
-        <pubDate>Mon, 09 Nov 2026 12:56:17 +0000</pubDate>
-        <lastBuildDate>Mon, 09 Nov 2026 12:56:17 +0000</lastBuildDate>
+        <pubDate>Tue, 17 Nov 2026 13:08:48 +0000</pubDate>
+        <lastBuildDate>Tue, 17 Nov 2026 13:08:48 +0000</lastBuildDate>
         <managingEditor>webmaster@pubcrank.com</managingEditor>
         <webMaster>webmaster@pubcrank.com</webMaster>
         <image>
@@ -37,6 +37,36 @@
 
         <itunes:image href="https://www.wildwoodag.church/icons/web-app-manifest-pod.png"/>
 
+        
+        <item>
+            <title>Build Your Foundation on Christ</title>
+            <description></description>
+            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/build-your-foundation-on-christ.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/build-your-foundation-on-christ.mp3</guid>
+            <pubDate>Tue, 17 Nov 2026 01:10:10 +0000</pubDate>
+            <author>webmaster@pubcrank.com</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/build-your-foundation-on-christ.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/build-your-foundation-on-christ.mp3" length="38370387" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
+        
+        <item>
+            <title>New Testament Survey - Part 16 - Nov 2026</title>
+            <description>Believer&#x27;s Institute series continues</description>
+            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/new-testament-survey-part-16-nov-2026.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-16-nov-2026.mp3</guid>
+            <pubDate>Tue, 17 Nov 2026 01:02:30 +0000</pubDate>
+            <author>webmaster@pubcrank.com</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-16-nov-2026.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/new-testament-survey-part-16-nov-2026.mp3" length="44178387" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
         
         <item>
             <title>Life in the Spirit</title>
@@ -364,51 +394,6 @@
             <itunes:explicit>false</itunes:explicit>
 
             <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/the-one-who-returned.mp3" length="56114719" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>One of Those Days - August 2026</title>
-            <description>Pastor Mark preaches about the days God brings in your life.</description>
-            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/one-of-those-days-august-2026.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/one-of-those-days-august-2026.mp3</guid>
-            <pubDate>Thu, 20 Aug 2026 00:43:53 +0000</pubDate>
-            <author>webmaster@pubcrank.com</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/one-of-those-days-august-2026.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/one-of-those-days-august-2026.mp3" length="37218387" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>The Message With No Title - Aug 2026</title>
-            <description>Sermon by Pastor Mark</description>
-            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/the-message-with-no-title-aug-2026.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/the-message-with-no-title-aug-2026.mp3</guid>
-            <pubDate>Fri, 14 Aug 2026 22:48:45 +0000</pubDate>
-            <author>webmaster@pubcrank.com</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/the-message-with-no-title-aug-2026.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/the-message-with-no-title-aug-2026.mp3" length="55074771" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>Names of God, Part 3 - Aug 2026</title>
-            <description>Pastor Kelly&#x27;s Bible study on the names of God.</description>
-            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/names-of-god-part-3-aug-2026.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/names-of-god-part-3-aug-2026.mp3</guid>
-            <pubDate>Fri, 14 Aug 2026 22:52:13 +0000</pubDate>
-            <author>webmaster@pubcrank.com</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/names-of-god-part-3-aug-2026.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/names-of-god-part-3-aug-2026.mp3" length="40417491" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
         </item>
