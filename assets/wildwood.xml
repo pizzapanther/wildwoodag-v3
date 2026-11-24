@@ -7,8 +7,8 @@
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en-US</language>
         <generator>Podtube CLI</generator>
-        <pubDate>Tue, 17 Nov 2026 13:08:48 +0000</pubDate>
-        <lastBuildDate>Tue, 17 Nov 2026 13:08:48 +0000</lastBuildDate>
+        <pubDate>Tue, 24 Nov 2026 12:33:26 +0000</pubDate>
+        <lastBuildDate>Tue, 24 Nov 2026 12:33:26 +0000</lastBuildDate>
         <managingEditor>webmaster@pubcrank.com</managingEditor>
         <webMaster>webmaster@pubcrank.com</webMaster>
         <image>
@@ -37,6 +37,36 @@
 
         <itunes:image href="https://www.wildwoodag.church/icons/web-app-manifest-pod.png"/>
 
+        
+        <item>
+            <title>Giving Thanks</title>
+            <description>Sermon on being thankful.</description>
+            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/giving-thanks.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/giving-thanks.mp3</guid>
+            <pubDate>Tue, 24 Nov 2026 00:37:01 +0000</pubDate>
+            <author>webmaster@pubcrank.com</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/giving-thanks.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/giving-thanks.mp3" length="33074259" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
+        
+        <item>
+            <title>Attitude of Thanksgiving</title>
+            <description>Bible study from Elder Norman Reed</description>
+            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/attitude-of-thanksgiving.mp3</link>
+            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/attitude-of-thanksgiving.mp3</guid>
+            <pubDate>Tue, 24 Nov 2026 00:29:14 +0000</pubDate>
+            <author>webmaster@pubcrank.com</author>
+            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/attitude-of-thanksgiving.jpg"/>
+            <itunes:explicit>false</itunes:explicit>
+
+            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/attitude-of-thanksgiving.mp3" length="39522993" type="audio/mpeg" />
+
+            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
+        </item>
         
         <item>
             <title>Build Your Foundation on Christ</title>
@@ -364,36 +394,6 @@
             <itunes:explicit>false</itunes:explicit>
 
             <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/ezra-opened-the-book.mp3" length="30098259" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>Great Faith</title>
-            <description>Walk by faith, not by sight. 2 Cor. 5:7.</description>
-            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/great-faith.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/great-faith.mp3</guid>
-            <pubDate>Mon, 24 Aug 2026 00:12:07 +0000</pubDate>
-            <author>webmaster@pubcrank.com</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/great-faith.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/great-faith.mp3" length="33154515" type="audio/mpeg" />
-
-            <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
-        </item>
-        
-        <item>
-            <title>The One Who Returned</title>
-            <description>Gratitude that makes you whole. Dr Jack teaches about the one who returned to give his gratitude to Jesus.</description>
-            <link>https://www.wildwoodag.church/media/?episode=wildwood-podcast/the-one-who-returned.mp3</link>
-            <guid isPermaLink="true">https://media.wildwoodag.xyz/wildwood-podcast/the-one-who-returned.mp3</guid>
-            <pubDate>Sat, 22 Aug 2026 16:28:21 +0000</pubDate>
-            <author>webmaster@pubcrank.com</author>
-            <itunes:image href="https://media.wildwoodag.xyz/wildwood-podcast/the-one-who-returned.jpg"/>
-            <itunes:explicit>false</itunes:explicit>
-
-            <enclosure url="https://media.wildwoodag.xyz/wildwood-podcast/the-one-who-returned.mp3" length="56114719" type="audio/mpeg" />
 
             <podcast:socialInteract priority="1" uri="https://www.instagram.com/wildwoodassemblycanyonlake/" protocol="instagram" accountId="@wildwoodassemblycanyonlake" accountUrl="https://www.instagram.com/wildwoodassemblycanyonlake/" />
         </item>
