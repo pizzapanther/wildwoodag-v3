@@ -2,7 +2,7 @@
   template: post.html
   title: Teachable
   draft: false
-  date: 2026-10-25T00:00:00.000Z
+  date: 2026-11-15T00:00:00.000Z
   image: https://www.wildwoodag.church/pimg/teaching.jpg
 }
 
